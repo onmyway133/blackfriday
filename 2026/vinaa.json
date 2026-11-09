@@ -1,10 +1,10 @@
 {
   "name": "Vinaa",
   "url": "https://www.vinaa.ai/?utm_source=indiegoodies",
-  "description": "Native Mac app for chatting with cloud and local AI models, with projects, folders, search and private iCloud sync",
+  "description": "Native AI Chat for Mac",
   "category": "ai",
   "platforms": ["mac"],
-  "deal": "Lifetime access for 2 Macs: $39 (was $70), all future updates included",
+  "deal": "Lifetime access for 2 Macs: $39 (was $70)",
   "pricing": "lifetime",
   "price": { "regular": 70, "sale": 39, "currency": "USD" },
   "discount": 44,

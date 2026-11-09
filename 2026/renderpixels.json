@@ -1,7 +1,7 @@
 {
   "name": "RenderPixels",
   "url": "https://renderpixels.com",
-  "description": "MCP server that lets Claude, ChatGPT or any AI that accepts MCP make your marketing images, like Open Graph images, social posts and logos",
+  "description": "MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make marketing images, like Open Graph images, social posts and logos",
   "category": "design",
   "platforms": ["web"],
   "deal": "20% off any credit pack with code BF2026, credits never expire",

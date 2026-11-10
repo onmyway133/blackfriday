@@ -1,0 +1,15 @@
+{
+  "name": "ClipUGC",
+  "url": "https://clipugc.com/black-friday?utm_source=indiegoodies",
+  "description": "Make UGC style videos for your app with AI influencers. Paste your App Store or Play link and a screen recording, get vertical videos",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "50% off any plan for your first 2 months with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "subscription",
+  "price": { "regular": 14.99, "sale": 7.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-11",
+  "endDate": "2026-12-06",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/04/96/f4049653-5ceb-3a8d-0178-2de0ac593276/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+}

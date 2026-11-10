@@ -1,0 +1,15 @@
+{
+  "name": "POSH",
+  "url": "https://poshtui.com/black-friday?utm_source=indiegoodies&utm_campaign=bf2026",
+  "description": "Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP, with a free terminal browser",
+  "category": "developer-tools",
+  "platforms": ["mac", "linux"],
+  "deal": "30% off monthly and yearly plans while you stay subscribed, with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "price": { "regular": 60, "sale": 42, "currency": "EUR" },
+  "discount": 30,
+  "startDate": "2026-11-11",
+  "endDate": "2026-12-02",
+  "icon": "https://poshtui.com/assets/apple-touch-icon.png"
+}

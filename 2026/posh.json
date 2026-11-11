@@ -4,7 +4,7 @@
   "description": "Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP, with a free terminal browser",
   "category": "developer-tools",
   "platforms": ["mac", "linux"],
-  "deal": "30% off monthly and yearly plans while you stay subscribed, with code BLACKFRIDAY2026",
+  "deal": "30% off while subscribed: €4.90/month or €42/year. New subscriptions only",
   "code": "BLACKFRIDAY2026",
   "pricing": "subscription",
   "price": { "regular": 60, "sale": 42, "currency": "EUR" },

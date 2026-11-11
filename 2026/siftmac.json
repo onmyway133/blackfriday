@@ -1,0 +1,14 @@
+{
+  "name": "SiftMac",
+  "url": "https://siftmac.com/pricing?utm_source=indiegoodies&utm_medium=deals&utm_campaign=blackfriday26",
+  "description": "Mac disk cleaner that says, for every item, whether it comes back before deleting it, with a 7-day Undo Shelf",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "25% off the Founding licence, one payment for 2 Macs, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 12, "sale": 9, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://siftmac.com/apple-touch-icon.png"
+}

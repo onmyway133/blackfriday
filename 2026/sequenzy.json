@@ -1,0 +1,13 @@
+{
+  "name": "Sequenzy",
+  "url": "https://sequenzy.com/black-friday",
+  "description": "Email marketing for SaaS: newsletters, automated sequences and transactional email from one account, with unlimited contacts",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "30% off any annual plan with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "subscription",
+  "price": { "regular": 205, "sale": 143.5, "currency": "USD" },
+  "discount": 30,
+  "icon": "https://www.sequenzy.com/apple-touch-icon.png"
+}

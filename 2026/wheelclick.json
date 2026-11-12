@@ -1,0 +1,14 @@
+{
+  "name": "WheelClick",
+  "url": "https://wheelclick.app/?ref=indiegoodies",
+  "description": "Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off the one-time unlock, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 4.99, "sale": 2.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-03",
+  "icon": "https://wheelclick.app/apple-touch-icon.png"
+}

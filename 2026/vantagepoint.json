@@ -1,0 +1,12 @@
+{
+  "name": "Vantagepoint",
+  "url": "https://vantagepoint.enciphers.com/",
+  "description": "Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs and more",
+  "category": "education",
+  "platforms": ["web"],
+  "deal": "70% off all hacking labs and certifications",
+  "discount": 70,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-15",
+  "icon": "https://vantagepoint.enciphers.com/vantagePointIcon.svg"
+}

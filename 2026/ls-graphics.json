@@ -1,0 +1,11 @@
+{
+  "name": "LS Graphics",
+  "url": "https://www.ls.graphics/",
+  "description": "Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with PSD, Figma and Sketch source files",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "50% off all bundles, monthly plans and annual plans",
+  "discount": 50,
+  "startDate": "2026-11-06",
+  "endDate": "2026-12-01"
+}

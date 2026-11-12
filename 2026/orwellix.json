@@ -1,0 +1,14 @@
+{
+  "name": "Orwellix",
+  "url": "https://orwellix.com/lifetime-deal?utm_source=indiegoodies&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026",
+  "description": "AI writing editor: an agent edits your document in place with accept or reject on every change, plus grammar, readability and plagiarism checks",
+  "category": "writing",
+  "platforms": ["web"],
+  "deal": "Lifetime plan $249 once instead of $468/year for Premium",
+  "pricing": "lifetime",
+  "price": { "regular": 468, "sale": 249, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-31",
+  "icon": "https://app.orwellix.com/affiliate-assets/logos/orwellix-icon-512.png"
+}

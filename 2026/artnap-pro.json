@@ -1,0 +1,14 @@
+{
+  "name": "Artnap Pro",
+  "url": "https://artnap.com/pro",
+  "description": "Archive of about 540,000 public domain artworks from museum open access collections. Pro adds museum master files and print-ready paper sizes",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "38% off the first year of the yearly plan, $59 instead of $95.88",
+  "pricing": "subscription",
+  "price": { "regular": 95.88, "sale": 59, "currency": "USD" },
+  "discount": 38,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://artnap.com/favicon-512.png"
+}

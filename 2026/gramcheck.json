@@ -1,0 +1,19 @@
+{
+  "name": "Gramcheck",
+  "url": "https://extensions.loopspec.com/gramcheck",
+  "description": "Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription",
+  "category": "writing",
+  "platforms": [
+    "chrome"
+  ],
+  "deal": "51% off: $19 once (was $39); 5 years of updates; no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 39,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 51,
+  "startDate": "2026-11-05",
+  "endDate": "2026-12-02"
+}

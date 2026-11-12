@@ -1,0 +1,19 @@
+{
+  "name": "Roomtape",
+  "url": "https://extensions.loopspec.com/roomtape",
+  "description": "Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded",
+  "category": "media",
+  "platforms": [
+    "chrome"
+  ],
+  "deal": "69% off: $9 once (was $29); 3 years of updates; no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 29,
+    "sale": 9,
+    "currency": "USD"
+  },
+  "discount": 69,
+  "startDate": "2026-11-05",
+  "endDate": "2026-12-02"
+}

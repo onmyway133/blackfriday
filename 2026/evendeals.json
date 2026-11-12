@@ -1,0 +1,13 @@
+{
+  "name": "Evendeals",
+  "url": "https://www.evendeals.com",
+  "description": "Purchasing power parity pricing for SaaS and digital products, with location-based discounts in 150+ countries and VPN abuse blocking",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off all plans with code BF2026, Unlimited lifetime deal back",
+  "code": "BF2026",
+  "discount": 40,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-02",
+  "icon": "https://www.evendeals.com/apple-icon.png"
+}

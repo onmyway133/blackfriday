@@ -1,0 +1,14 @@
+{
+  "name": "Safe Screen Share",
+  "url": "https://www.safescreenshare.com",
+  "description": "Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record",
+  "category": "utilities",
+  "platforms": ["chrome"],
+  "deal": "40% off the lifetime license with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "discount": 40,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-02",
+  "icon": "https://www.safescreenshare.com/apple-touch-icon.png"
+}

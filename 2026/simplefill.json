@@ -1,0 +1,15 @@
+{
+  "name": "SimpleFill",
+  "url": "https://simplefill.app",
+  "description": "Text expansion, AI actions, and one-click form filling in your browser: Chrome, Firefox, Edge, and Safari",
+  "category": "productivity",
+  "platforms": ["chrome"],
+  "deal": "25% off one-time plans with code LAUNCH (Chrome, Firefox, and Edge checkout)",
+  "code": "LAUNCH",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 21.75, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-07",
+  "icon": "https://simplefill.app/icon.png"
+}

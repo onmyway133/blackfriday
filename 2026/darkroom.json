@@ -1,0 +1,15 @@
+{
+  "name": "Darkroom",
+  "url": "https://darkroom.co/black-friday",
+  "description": "Photo and video editor for the library already in Apple Photos: curves, masks and color grading on iPhone, iPad, Mac and Vision Pro",
+  "category": "media",
+  "platforms": ["ios", "ipad", "mac", "vision"],
+  "deal": "50% off your first year of Darkroom+",
+  "code": "BLACKFRIDAY26",
+  "pricing": "subscription",
+  "price": { "regular": 39.99, "sale": 19.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-03",
+  "icon": "https://darkroom.co/apple-touch-icon.png"
+}

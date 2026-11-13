@@ -1,0 +1,15 @@
+{
+  "name": "TweakTick",
+  "url": "https://tweaktick.com/founding?ref=indiegoodies&code=BFCM26",
+  "description": "Client feedback and sign-off for freelancers and agencies: clients pin comments on live sites, images, PDFs and video, then approve with an emailed code",
+  "category": "productivity",
+  "platforms": ["web", "chrome"],
+  "deal": "20% off the Founding lifetime licence (all 3 tiers) with code BFCM26",
+  "code": "BFCM26",
+  "pricing": "lifetime",
+  "price": { "regular": 149, "sale": 119.2, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-02",
+  "icon": "https://tweaktick.com/apple-icon"
+}

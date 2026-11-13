@@ -1,0 +1,21 @@
+{
+  "name": "Ascope",
+  "url": "https://ascope.app/#pricing",
+  "description": "ASO tool and keyword rank tracker for App Store and Google Play, with daily rankings in 50+ countries and an MCP server",
+  "category": "marketing",
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "deal": "63% off lifetime: $189 → $69, one payment",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 189,
+    "sale": 69,
+    "currency": "USD"
+  },
+  "discount": 63,
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-30",
+  "icon": "https://ascope.app/apple-touch-icon.png"
+}

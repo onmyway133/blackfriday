@@ -1,0 +1,18 @@
+{
+  "name": "PinBoostr",
+  "url": "https://pinboostr.com/pricing/?utm_source=indiegoodies&utm_campaign=bf26",
+  "description": "Pinterest scheduler for bloggers and online stores. AI writes pin titles and designs pins, and you approve every pin before it posts",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "Yearly plans from $29/year, price locked while you stay subscribed",
+  "pricing": "subscription",
+  "price": {
+    "regular": 199,
+    "sale": 49,
+    "currency": "USD"
+  },
+  "discount": 75,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://pinboostr.com/wp-content/uploads/2026/03/cropped-pinboostr-logo-1-270x270.png"
+}

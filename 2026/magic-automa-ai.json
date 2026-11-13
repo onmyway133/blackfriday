@@ -1,0 +1,15 @@
+{
+  "name": "Magic Automa AI",
+  "url": "https://www.magicautoma.com/#pricing",
+  "description": "One-click macros for DaVinci Resolve, Premiere, After Effects, VEGAS and OBS, plus the Speed Editor as a controller for any app",
+  "category": "media",
+  "platforms": ["windows", "mac"],
+  "deal": "40% off lifetime with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "lifetime",
+  "price": { "regular": 49.99, "sale": 29.99, "currency": "EUR" },
+  "discount": 40,
+  "startDate": "2026-11-13",
+  "endDate": "2026-11-30",
+  "icon": "https://www.magicautoma.com/assets/images/Logo256x256.png"
+}

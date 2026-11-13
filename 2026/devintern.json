@@ -1,0 +1,13 @@
+{
+  "name": "DevIntern",
+  "url": "https://devintern.com/pricing/",
+  "description": "Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations",
+  "category": "developer-tools",
+  "deal": "40% off the first invoice with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "price": { "regular": 99, "sale": 59.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://devintern.com/marketing/logo/logo.square.dark.png"
+}

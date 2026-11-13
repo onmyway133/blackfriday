@@ -1,0 +1,13 @@
+{
+  "name": "Aikeedo",
+  "url": "https://aikeedo.com/black-friday/?utm_source=indiegoodies&utm_medium=deal-listing&utm_campaign=bfcm2026",
+  "description": "Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "50% off the license, Core for 12 months and every add-on",
+  "pricing": "one-time",
+  "price": { "regular": 1499, "sale": 749.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01"
+}

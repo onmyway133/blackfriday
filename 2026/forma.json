@@ -1,0 +1,14 @@
+{
+  "name": "Forma",
+  "url": "https://useforma.app",
+  "description": "Free-form canvas for daily tasks and project planning with markdown cards, checklists and a marker, native on Mac",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "47% off Lifetime Pro with code BLACKFRIDAY50",
+  "code": "BLACKFRIDAY50",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 7.99, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01"
+}

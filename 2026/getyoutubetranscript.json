@@ -1,0 +1,15 @@
+{
+  "name": "GetYouTubeTranscript",
+  "url": "https://getyoutubetranscript.com/pricing",
+  "description": "YouTube transcripts in a browser extension, on the web, and through a REST API and MCP server, with search, AI summary and chat",
+  "category": "media",
+  "platforms": [
+    "web",
+    "chrome"
+  ],
+  "deal": "Lifetime access for $149 one-time: 3,000 credits every month, first 100 buyers",
+  "pricing": "lifetime",
+  "startDate": "2026-11-14",
+  "endDate": "2026-12-10",
+  "icon": "https://getyoutubetranscript.com/images/logo.png"
+}

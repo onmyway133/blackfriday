@@ -1,0 +1,14 @@
+{
+  "name": "Kiri",
+  "url": "https://trykiri.app/?utm_source=indiegoodies&utm_campaign=blackfriday_202611",
+  "description": "A screen time app that never locks you out: when your time is up, mist covers the screen and you wipe it away",
+  "category": "lifestyle",
+  "platforms": ["mac", "ios", "android"],
+  "deal": "50% off Kiri Pro, one-time purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://trykiri.app/img/icon-512.png"
+}

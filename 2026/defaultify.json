@@ -1,0 +1,15 @@
+{
+  "name": "Defaultify",
+  "url": "https://defaultify.app/?utm_source=indiegoodies&utm_campaign=blackfriday_202611",
+  "description": "See which app opens every file type and link on your Mac or Android phone, and fix the wrong ones",
+  "category": "utilities",
+  "platforms": ["mac", "android"],
+  "deal": "50% off Pro: code INDIE50 on Mac, automatic on Android",
+  "code": "INDIE50",
+  "pricing": "one-time",
+  "price": { "regular": 6.99, "sale": 3.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://defaultify.app/apple-touch-icon.png"
+}

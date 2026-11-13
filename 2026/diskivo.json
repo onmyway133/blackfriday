@@ -1,0 +1,20 @@
+{
+  "name": "Diskivo",
+  "url": "https://diskivo.app/en",
+  "description": "Mac utility to see what takes up disk space, review files before cleanup, and find duplicates and app leftovers. Scans run locally",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Diskivo Pro Perpetual for one Mac: €69.99 → €19.00 with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 69.99,
+    "sale": 19,
+    "currency": "EUR"
+  },
+  "discount": 73,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-01"
+}

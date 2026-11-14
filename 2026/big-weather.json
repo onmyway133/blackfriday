@@ -1,0 +1,14 @@
+{
+  "name": "Big Weather",
+  "url": "https://apps.apple.com/app/big-weather/id1531449281",
+  "description": "Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence",
+  "category": "lifestyle",
+  "platforms": ["mac"],
+  "deal": "33% off Premium Lifetime, a one-time in-app purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-03",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/3e/0e/1d3e0ed2-307d-1b65-0fac-fc7e1d3a2461/AppIcon-0-0-85-220-0-0-5-0-2x.png/512x512bb.png"
+}

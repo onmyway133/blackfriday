@@ -1,0 +1,15 @@
+{
+  "name": "Mushroom",
+  "url": "https://store.getmushroom.app/l/mushroom/BLACKFRIDAY30",
+  "description": "Pixel desktop pet that reminds you to drink water, take breaks and rest your eyes, timed by how long you have actually been at the desk",
+  "category": "productivity",
+  "platforms": ["mac", "windows"],
+  "deal": "30% off the one-time license, 5 devices, with code BLACKFRIDAY30",
+  "code": "BLACKFRIDAY30",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 6.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://www.getmushroom.app/assets/AppIcon.jpeg"
+}

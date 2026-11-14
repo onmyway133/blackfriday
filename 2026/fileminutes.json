@@ -1,0 +1,13 @@
+{
+  "name": "FileMinutes",
+  "url": "https://www.fileminutes.com/pricing/?utm_source=indiegoodies",
+  "description": "A Better Way to Find Files on Your Mac",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "Up to 60% off lifetime licenses, discount applied automatically at checkout",
+  "pricing": "lifetime",
+  "price": { "regular": 30, "sale": 12, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-30"
+}

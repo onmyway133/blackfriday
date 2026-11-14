@@ -1,0 +1,14 @@
+{
+  "name": "palmscreen",
+  "url": "https://www.palmscreen.app/black-friday/",
+  "description": "Mac screen recorder with auto-zoom on every click, cursor effects, an editor and screenshot tools",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "$19 instead of $29, one-time",
+  "code": "BLACKWEEK",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 19, "currency": "USD" },
+  "discount": 34,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30"
+}

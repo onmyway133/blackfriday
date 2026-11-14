@@ -1,0 +1,14 @@
+{
+  "name": "Keyword Race",
+  "url": "https://keywordrace.com",
+  "description": "App Store keyword research for indie iOS developers: competing apps, your position and estimated demand, paid once",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off lifetime access ($59 → $35), applied at checkout",
+  "pricing": "lifetime",
+  "price": { "regular": 59, "sale": 35, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-14",
+  "endDate": "2026-12-02",
+  "icon": "https://keywordrace.com/icon-512.png"
+}

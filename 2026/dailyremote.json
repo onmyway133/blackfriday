@@ -1,0 +1,13 @@
+{
+  "name": "DailyRemote",
+  "url": "https://dailyremote.com/get-started",
+  "description": "Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts",
+  "category": "productivity",
+  "platforms": ["web"],
+  "deal": "39% off Premium monthly, quarterly and yearly plans with code BFBNRTZSY",
+  "code": "BFBNRTZSY",
+  "pricing": "subscription",
+  "discount": 39,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01"
+}

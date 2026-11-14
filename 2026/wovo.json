@@ -1,0 +1,21 @@
+{
+  "name": "Wovo",
+  "url": "https://wovo.one/#pricing",
+  "description": "One MCP connection lets AI agents work across your Mac and Linux computers without SSH or tunnels",
+  "category": "ai",
+  "platforms": [
+    "mac",
+    "linux",
+    "web"
+  ],
+  "deal": "50% off Pro yearly, founding price locked while subscribed",
+  "pricing": "subscription",
+  "price": {
+    "regular": 144,
+    "sale": 72,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-15"
+}

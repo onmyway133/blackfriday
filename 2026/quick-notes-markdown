@@ -1,0 +1,14 @@
+{
+  "name": "Quick-Notes-Markdown",
+  "url": "https://quicknotesmarkdown.app",
+  "description": "Capture notes quickly on macOS without opening markdown files",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "40% off lifetime",
+  "code": "n/a",
+  "pricing": "lifetime",
+  "price": { ""sale": 4.99, "currency": "USD" },
+  "discount": 40,
+  "endDate": "2026-11-30",
+  "icon": "https://nfyydhypalwhxsybpifd.supabase.co/storage/v1/object/sign/avatars/quick-capture-markdown-notes.webp?token=eyJraWQiOiJmYjdmNzQ0ZS1hODAyLTQ4YzMtODA5NC04NzhhOGUyZDBhMDAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhdmF0YXJzL3F1aWNrLWNhcHR1cmUtbWFya2Rvd24tbm90ZXMud2VicCIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTQ3MzQ3NjIsImV4cCI6MTgyNjI3MDc2Mn0._1tvRN3xdqQ24bVhZNew7ei0ViQ_befyivDASqIDw38"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Smolpad",
+  "url": "https://smolpad.com",
+  "description": "Markdown notes for Mac, iPhone, iPad and Apple Watch; menu bar on the Mac, every note a plain .md file in your own cloud",
+  "category": "writing",
+  "platforms": ["mac", "ios", "ipad", "watch"],
+  "deal": "50% off Pro Lifetime with App Store offer code BLACKFRIDAY, one purchase for every device",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 14.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-08",
+  "endDate": "2026-12-01",
+  "icon": "https://smolpad.com/press/smolpad-icon-512.png"
+}

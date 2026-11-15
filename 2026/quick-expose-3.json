@@ -1,0 +1,15 @@
+{
+  "name": "Quick Exposé 3",
+  "url": "https://noteifyapp.com/quick-expose/",
+  "description": "Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "30% off with code MACPLUSBLACKFRIDAY26",
+  "code": "MACPLUSBLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 39.99, "sale": 27.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-30",
+  "icon": "https://raw.githubusercontent.com/MacPlus-Software/black-friday/main/icons/quick-expose-3.png"
+}

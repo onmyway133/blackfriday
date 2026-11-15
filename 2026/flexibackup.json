@@ -1,0 +1,15 @@
+{
+  "name": "FlexiBackup",
+  "url": "https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026",
+  "description": "Back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off one-time purchase with code BLACK2026",
+  "code": "BLACK2026",
+  "pricing": "one-time",
+  "price": { "regular": 5.99, "sale": 2.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-08",
+  "endDate": "2026-12-06",
+  "icon": "https://flexibackup.swiftsenpai.com/wp-content/uploads/2025/03/cropped-site-icon.png"
+}

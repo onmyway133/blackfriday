@@ -1,0 +1,14 @@
+{
+  "name": "Pippin",
+  "url": "https://usepippin.com/pricing/",
+  "description": "Mac to-do list that writes and keeps itself from the text on your screen, so you never type a task",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "51% off lifetime, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 59, "sale": 29, "currency": "USD" },
+  "discount": 51,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-02",
+  "icon": "https://usepippin.com/icon-512.png"
+}

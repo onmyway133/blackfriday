@@ -4,10 +4,10 @@
   "description": "Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar. A free ChatGPT account is enough",
   "category": "utilities",
   "platforms": ["mac"],
-  "deal": "Up to 48% off one-time licences, no code: 1 Mac $20, 2 Macs $27, 5 Macs $41",
+  "deal": "50% off one-time licences, no code: 1 Mac $19, 2 Macs $24, 5 Macs $34",
   "pricing": "one-time",
-  "price": { "regular": 39, "sale": 20, "currency": "USD" },
-  "discount": 48,
+  "price": { "regular": 39, "sale": 19, "currency": "USD" },
+  "discount": 50,
   "startDate": "2026-11-16",
   "endDate": "2026-12-07",
   "icon": "https://wishbar.app/wishbar-logo.png"

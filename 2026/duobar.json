@@ -1,0 +1,14 @@
+{
+  "name": "DuoBar",
+  "url": "https://www.teekamsuthar.com/duobar?utm_source=indiegoodies&utm_medium=referral&utm_campaign=black-friday-2026",
+  "description": "Merges your Mac's native menu bar icons into one glanceable icon; hover to see them separately again. Works on macOS 27 Golden Gate",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "29% off Pro, one-time purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 6.99, "sale": 4.99, "currency": "USD" },
+  "discount": 29,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://www.teekamsuthar.com/duobar/icon-512.png"
+}

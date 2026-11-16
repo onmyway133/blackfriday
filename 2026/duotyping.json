@@ -1,0 +1,15 @@
+{
+  "name": "DuoTyping",
+  "url": "https://duotyping.com/pricing",
+  "description": "Fixes grammar, spelling and tone as you type in any app with no daily limit, predicts your next words, and rewrites, translates and answers questions",
+  "category": "writing",
+  "platforms": ["mac", "windows", "chrome", "web"],
+  "deal": "50% off the first payment of Pro with code BFCM2026",
+  "code": "BFCM2026",
+  "pricing": "subscription",
+  "price": { "regular": 9.9, "sale": 4.95, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-13",
+  "icon": "https://duotyping.com/apple-touch-icon.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "own.page",
+  "url": "https://own.page/pricing?utm_source=indiegoodies&utm_medium=deal_list&utm_campaign=black_week_2026",
+  "description": "Not another link in bio: a personal website built in minutes from live widgets, to sell, take bookings and collect leads on your own domain",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off the first year of Pro (yearly), 30% off Business, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 79.9, "sale": 47.94, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://own.page/icon-128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wishbar",
+  "url": "https://wishbar.app/black-friday?ref=indiegoodies",
+  "description": "Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar. A free ChatGPT account is enough",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "Up to 48% off one-time licences, no code: 1 Mac $20, 2 Macs $27, 5 Macs $41",
+  "pricing": "one-time",
+  "price": { "regular": 39, "sale": 20, "currency": "USD" },
+  "discount": 48,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://wishbar.app/wishbar-logo.png"
+}

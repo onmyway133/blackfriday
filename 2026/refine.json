@@ -1,0 +1,15 @@
+{
+  "name": "Refine",
+  "url": "https://refine.sh/#pricing",
+  "description": "Offline AI writing assistant for Mac: grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps",
+  "category": "writing",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "35% off one-time license, no code needed, applied at checkout",
+  "pricing": "one-time",
+  "discount": 35,
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-30",
+  "icon": "https://refine.sh/icon.png"
+}

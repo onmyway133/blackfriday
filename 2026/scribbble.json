@@ -1,0 +1,15 @@
+{
+  "name": "Scribbble",
+  "url": "https://www.scribbble.app",
+  "description": "Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "35% off with code BFCMSCRIB",
+  "code": "BFCMSCRIB",
+  "pricing": "one-time",
+  "price": { "regular": 12, "sale": 7.8, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-02",
+  "icon": "https://www.scribbble.app/icon.png"
+}

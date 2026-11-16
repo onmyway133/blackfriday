@@ -1,0 +1,21 @@
+{
+  "name": "TypeBoost",
+  "url": "https://typeboost.ai/",
+  "description": "AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere",
+  "category": "ai",
+  "platforms": [
+    "mac",
+    "ios"
+  ],
+  "deal": "50% off the first year of Pro annual",
+  "code": "TYPEBOOST50",
+  "pricing": "subscription",
+  "price": {
+    "regular": 60,
+    "sale": 30,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30"
+}

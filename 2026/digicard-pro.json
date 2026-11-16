@@ -1,0 +1,22 @@
+{
+  "name": "DigiCard Pro",
+  "url": "https://digicard.pro/",
+  "description": "Digital business card for Apple Wallet and Google Wallet, shared with a QR code",
+  "category": "business",
+  "platforms": [
+    "ios",
+    "android",
+    "web"
+  ],
+  "deal": "50% off Pro, one-time",
+  "code": "DIGI50",
+  "pricing": "one-time",
+  "price": {
+    "regular": 49.99,
+    "sale": 24.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30"
+}

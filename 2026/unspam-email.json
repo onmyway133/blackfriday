@@ -1,0 +1,14 @@
+{
+  "name": "Unspam.email",
+  "url": "https://unspam.email/black-friday",
+  "description": "Email spam checker with a 0-100 spam score, inbox placement tests, blacklist checks and previews on 60+ clients",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "35% off the first invoice, 40% if you win the deal-page game",
+  "code": "BLACKFRIDAY35",
+  "pricing": "subscription",
+  "price": { "regular": 709.98, "sale": 461.49, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-01"
+}

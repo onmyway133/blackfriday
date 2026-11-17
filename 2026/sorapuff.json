@@ -1,0 +1,14 @@
+{
+  "name": "Sorapuff",
+  "url": "https://sorapuff.app/?utm_source=indiegoodies",
+  "description": "Fear-of-flying help for iPhone and iPad: where bumps are likely on your route before you board, then a bump meter and calm help in the air, offline",
+  "category": "utilities",
+  "platforms": ["ios", "ipad"],
+  "deal": "33% off Sorapuff Pro: US$9.99 instead of US$14.99",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-27",
+  "endDate": "2027-01-04",
+  "icon": "https://sorapuff.app/icon.png"
+}

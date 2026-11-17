@@ -1,0 +1,15 @@
+{
+  "name": "Qazzly Quote Pro",
+  "url": "https://qazzly.app/",
+  "description": "Free browser quote calculators for cleaning, pressure washing, window, gutter, lawn, holiday lights and snow; Pro adds your branding and offline use, no account",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "50% off each Pro lifetime license ($19 to $9.50) with code BF50",
+  "code": "BF50",
+  "pricing": "lifetime",
+  "price": { "regular": 19, "sale": 9.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://qazzly.app/icon-192.png"
+}

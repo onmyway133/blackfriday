@@ -1,0 +1,14 @@
+{
+  "name": "bytemail",
+  "url": "https://bytemailapp.com/black-friday",
+  "description": "Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "30% off lifetime, $69 instead of $99, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 99, "sale": 69, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-07",
+  "icon": "https://bytemailapp.com/apple-touch-icon.png"
+}

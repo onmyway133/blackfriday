@@ -1,0 +1,14 @@
+{
+  "name": "Faivelo",
+  "url": "https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=indiegoodies",
+  "description": "Email hosting for your own domain: one plan covers unlimited mailboxes, aliases and domains, with webmail and calendar",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "80% off: $12 for the year instead of $60, renews at $12, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 60, "sale": 12, "currency": "USD" },
+  "discount": 80,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-01",
+  "icon": "https://faivelo.com/apple-touch-icon.png"
+}

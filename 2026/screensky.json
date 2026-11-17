@@ -1,0 +1,20 @@
+{
+  "name": "ScreenSky",
+  "url": "https://screensky.io/pricing/",
+  "description": "Native Mac task board, quick task entry, screen breaks, Smart Pause, and posture and blink reminders",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off: $9.99 one-time for 1 Mac with 1 year of updates, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19.99,
+    "sale": 9.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-02",
+  "icon": "https://screensky.io/screensky-app-logo.png"
+}

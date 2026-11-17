@@ -1,0 +1,13 @@
+{
+  "name": "EzyStudio",
+  "url": "https://ezystudio.com/pricing",
+  "description": "AI website and app builder. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "10% off every payment on every regular plan with code EARLYBF26",
+  "code": "EARLYBF26",
+  "pricing": "subscription",
+  "discount": 10,
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-22"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Designmodo",
+  "url": "https://designmodo.com/black-friday/",
+  "description": "Postcards, an AI email template builder for 20+ email platforms, and Slides, a no-code website builder with hosting",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "Up to 40% off yearly plans, 3 drops of 100 coupons",
+  "code": "BLACK",
+  "pricing": "subscription",
+  "price": { "regular": 190, "sale": 114, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-30"
+}

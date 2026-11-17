@@ -1,0 +1,14 @@
+{
+  "name": "Static.app",
+  "url": "https://static.app/black-friday",
+  "description": "Static website hosting: upload HTML or edit in the browser, custom domain, free SSL, forms and daily backups",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "35% off the first payment, 40% if you win the deal-page game",
+  "code": "BLACKFRIDAY35",
+  "pricing": "subscription",
+  "price": { "regular": 60, "sale": 39, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-01"
+}

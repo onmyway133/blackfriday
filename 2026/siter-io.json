@@ -1,0 +1,14 @@
+{
+  "name": "Siter.io",
+  "url": "https://siter.io/black-friday",
+  "description": "No-code website builder with a free-form design canvas, Figma import, AI page generation and hosting on your domain",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "35% off the first payment, 40% if you win the deal-page game",
+  "code": "BLACKFRIDAY35",
+  "pricing": "subscription",
+  "price": { "regular": 84, "sale": 54.6, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-01"
+}

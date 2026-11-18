@@ -1,0 +1,14 @@
+{
+  "name": "Tapelark",
+  "url": "https://tapelark.com/pricing/",
+  "description": "Records internet radio one file per song, TV channels from a public list, podcasts and app sound into a tagged library on your computer",
+  "category": "media",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "$10 off the one-time licence: $29 instead of $39, no code needed; one licence per system",
+  "pricing": "one-time",
+  "price": { "regular": 39, "sale": 29, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://tapelark.com/media/brand/tapelark-icon-512.png"
+}

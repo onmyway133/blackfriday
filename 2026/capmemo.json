@@ -1,0 +1,14 @@
+{
+  "name": "CapMemo",
+  "url": "https://capmemo.app/black-friday/",
+  "description": "Scan and organize kids’ artwork, old photos, and keepsakes on your iPhone",
+  "category": "media",
+  "platforms": ["ios"],
+  "deal": "50% off CapMemo Plus, $2.99 one-time, 50 U.S. offer codes available",
+  "pricing": "one-time",
+  "price": { "regular": 5.99, "sale": 2.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://capmemo.app/assets/home-20261114/app-icon-180.png"
+}

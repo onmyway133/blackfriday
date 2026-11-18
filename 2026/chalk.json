@@ -1,0 +1,14 @@
+{
+  "name": "Chalk",
+  "url": "https://getchalk.dev/#pricing",
+  "description": "Whiteboard beside your terminal for Claude Code on Mac: cross out, circle or reorder a step and Claude fixes its plan before it writes code",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "50% off, applied automatically at checkout",
+  "pricing": "one-time",
+  "price": { "regular": 24, "sale": 12, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://getchalk.dev/icon-512.png"
+}

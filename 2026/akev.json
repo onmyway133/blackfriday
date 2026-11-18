@@ -1,0 +1,15 @@
+{
+  "name": "Akev",
+  "url": "https://akev.dev/pricing",
+  "description": "Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "30% off the Pro licence with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 34.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-06",
+  "icon": "https://akev.dev/apple-icon.png"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Wordfully",
+  "url": "https://www.wordfully.ai/c/BLACKFRIDAY2026",
+  "description": "AI grammar and spelling checker with rephrasing, tone changes, translation and word definitions",
+  "category": "writing",
+  "platforms": [
+    "web",
+    "chrome"
+  ],
+  "deal": "50% off first monthly/annual Pro payment; first-time payers only; normal renewals",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-04",
+  "icon": "https://www.wordfully.ai/apple-touch-icon.png"
+}

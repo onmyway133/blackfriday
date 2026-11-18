@@ -1,0 +1,14 @@
+{
+  "name": "Craft",
+  "url": "https://www.craft.do/pricing",
+  "description": "Notes, docs and tasks in one native app for Mac, iPhone and iPad, with daily notes and an AI assistant built in",
+  "category": "writing",
+  "platforms": ["mac", "ios", "ipad", "web"],
+  "deal": "40% off yearly Plus and Family with code BLACKFRIDAY26-A, 20% off monthly",
+  "code": "BLACKFRIDAY26-A",
+  "pricing": "subscription",
+  "discount": 40,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-09",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/f4/18/f1f41890-45a7-4e45-dfc5-96e3eeeedd88/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg"
+}

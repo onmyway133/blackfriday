@@ -1,0 +1,11 @@
+{
+  "name": "ClipTalk",
+  "url": "https://www.cliptalk.pro",
+  "description": "Make finished TikTok, Reels and YouTube videos from a prompt: script, AI visuals, voiceover, captions and music, rendered to a ready-to-post MP4",
+  "category": "ai",
+  "deal": "Pro $39/mo instead of $99/mo (61% off), price locked in for life. No code needed.",
+  "price": { "regular": 99, "sale": 39, "currency": "USD" },
+  "discount": 61,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-02"
+}

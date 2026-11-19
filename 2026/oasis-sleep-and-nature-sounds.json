@@ -1,0 +1,14 @@
+{
+  "name": "Oasis: Sleep & Nature Sounds",
+  "url": "https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8",
+  "description": "Nature sound mixer for sleep and focus with 120 real field recordings from 43 countries, binaural beats and a sleep timer",
+  "category": "lifestyle",
+  "platforms": ["ios", "ipad", "mac"],
+  "deal": "Lifetime unlock free until Dec 1, no code. In the app pick Lifetime",
+  "pricing": "lifetime",
+  "price": { "regular": 24.99, "sale": 0, "currency": "USD" },
+  "discount": 100,
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-01",
+  "icon": "https://oasis.jojolab.dev/brand/oasis-ring-256.png"
+}

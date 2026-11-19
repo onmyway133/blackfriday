@@ -1,0 +1,14 @@
+{
+  "name": "PureScribe",
+  "url": "https://appsthere.com/apps/purescribe",
+  "description": "On-device speech to text for Mac and iPhone. Audio never leaves the device, no account, no subscription",
+  "category": "ai",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "50% off Pro one-time purchase, no code",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c7/f4/abc7f463-8aa9-ec78-4662-e2c5edb6c1fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Pilot – Flight Logbook",
+  "url": "https://appsthere.com/apps/pilote",
+  "description": "Pilot logbook with EASA and FAA rules on the same flights, night time computed from the route, works offline",
+  "category": "lifestyle",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "33% off Pro one-time purchase, no code",
+  "pricing": "one-time",
+  "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/ee/03/88ee0320-cf59-5604-2c28-a54f9d2f8c1c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

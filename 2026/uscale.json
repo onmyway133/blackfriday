@@ -1,0 +1,14 @@
+{
+  "name": "UScale",
+  "url": "https://upscales.app/black-friday.html",
+  "description": "Sharpen blurry photos, restore old family pictures, and upscale low-res videos with AI",
+  "category": "media",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "40% off the first year of Premium Annual with BF26 for new and lapsed subscribers",
+  "code": "BF26",
+  "pricing": "subscription",
+  "price": { "regular": 44.99, "sale": 26.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30"
+}

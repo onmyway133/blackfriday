@@ -1,0 +1,19 @@
+{
+  "name": "FastScribe",
+  "url": "https://fastscribe.org/pricing",
+  "description": "Web audio/video transcription; offer for accounts without active subscription; renews $120/year",
+  "category": "media",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Pro $89 first year (was $120) + 6,500 credits; no code; ends Nov 30, 11:59 PM PT",
+  "pricing": "subscription",
+  "price": {
+    "regular": 120,
+    "sale": 89,
+    "currency": "USD"
+  },
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-30",
+  "icon": "https://fastscribe.org/logo.png"
+}

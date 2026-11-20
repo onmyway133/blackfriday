@@ -1,0 +1,14 @@
+{
+  "name": "PicXure",
+  "url": "https://picxure.app/?utm_source=indiegoodies&utm_medium=deal&utm_campaign=bf2026",
+  "description": "Screenshot studio without a subscription: region, window and scrolling capture with a 9-tool annotator; OCR and mosaic are free forever",
+  "category": "design",
+  "platforms": ["mac"],
+  "deal": "50% off with code BF2026 (launch price, regularly $18.99)",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 7.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01"
+}

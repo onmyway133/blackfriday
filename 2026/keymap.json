@@ -1,0 +1,14 @@
+{
+  "name": "Keymap",
+  "url": "https://keymap.app/?utm_source=indiegoodies&utm_medium=deal&utm_campaign=bf2026",
+  "description": "Double-press Command to see every shortcut of the current app in a floating panel, with conflict detection, smart suggestions and optional remapping",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 6.99, "sale": 3.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tutti",
+  "url": "https://tutti.barrybarrywu.com/#pricing",
+  "description": "Native Mac menu bar app for multi-output audio, per-app volume, and display controls",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Pro one-time US$8.99 for one Mac, about 31% off. No code needed.",
+  "pricing": "one-time",
+  "price": {
+    "regular": 12.99,
+    "sale": 8.99,
+    "currency": "USD"
+  },
+  "discount": 31,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://tutti.barrybarrywu.com/icon.png"
+}

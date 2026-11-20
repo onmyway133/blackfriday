@@ -1,0 +1,12 @@
+{
+  "name": "SciFig",
+  "url": "https://scifig.ai/black-friday",
+  "description": "Create editable scientific illustrations, charts, and flowcharts from text, sketches, and data",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "20% off the first year of Pro annual, applied automatically",
+  "pricing": "subscription",
+  "price": { "regular": 360, "sale": 288, "currency": "USD" },
+  "discount": 20,
+  "endDate": "2026-12-01"
+}

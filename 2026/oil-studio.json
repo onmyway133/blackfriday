@@ -1,0 +1,21 @@
+{
+  "name": "Oil Studio",
+  "url": "https://studio.oiloil.org/en/",
+  "description": "Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, on-device Whisper transcript cutting, and CLI + Agent Skill",
+  "category": "media",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Extra 20% off $39 launch price ($31.20, reg $49) with code BFCM2026",
+  "code": "BFCM2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 49,
+    "sale": 31.2,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-02",
+  "icon": "https://studio.oiloil.org/icon-512.png"
+}

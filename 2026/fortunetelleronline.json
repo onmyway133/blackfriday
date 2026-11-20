@@ -1,0 +1,13 @@
+{
+  "name": "FortuneTellerOnline",
+  "url": "https://www.fortunetelleronline.app/#pricing",
+  "description": "Free AI fortune teller for tarot, love, career & yes-or-no readings from a full 78-card Rider-Waite deck",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "90% off all plans + 10x bonus credits, auto-applied, no code",
+  "pricing": "subscription",
+  "discount": 90,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-31",
+  "icon": "https://www.fortunetelleronline.app/imgs/black-friday/logo-180.png"
+}

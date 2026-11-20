@@ -1,0 +1,22 @@
+{
+  "name": "Open Pi - Raspberry Pi Manager",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20",
+  "description": "Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from Mac, iPhone or iPad",
+  "category": "developer-tools",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad"
+  ],
+  "deal": "About 20% off Single Lifetime with ARTSVITBF20; US prices shown, local prices vary",
+  "code": "ARTSVITBF20",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 5.99,
+    "sale": 4.79,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "endDate": "2026-11-30",
+  "icon": "https://openpi.uk/assets/logo.png"
+}

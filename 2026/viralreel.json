@@ -1,0 +1,13 @@
+{
+  "name": "ViralReel",
+  "url": "https://www.viralreel.app/pricing",
+  "description": "ViralReel turns your photos into AI short videos using templates inspired by social media trends",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "Up to 30% off one-time credit packs, auto-applied, no code",
+  "pricing": "one-time",
+  "discount": 30,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://www.viralreel.app/logo.png"
+}

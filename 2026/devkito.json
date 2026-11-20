@@ -1,7 +1,7 @@
 {
   "name": "Devkito",
   "url": "https://devkito.com/pricing",
-  "description": "122 offline developer tools in one desktop app: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more",
+  "description": "122 developer tools in one desktop app, most of them working offline: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more",
   "category": "developer-tools",
   "platforms": ["mac", "windows", "linux"],
   "deal": "50% off the one-time licence with code BF2026",

@@ -1,0 +1,14 @@
+{
+  "name": "Liite Lifetime Bundle",
+  "url": "https://liite.co/lifetime?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=blackfriday2026",
+  "description": "Pay once for Liite Pro (AI page builder) plus lifetime licenses for SmartSpreadsheets, PicBolt Pro, UtilBolt, Picify and MacSuite",
+  "category": "marketing",
+  "platforms": ["web", "mac"],
+  "deal": "$249 once instead of $1,444 separately, 500 bundles, no code",
+  "pricing": "lifetime",
+  "price": { "regular": 1444, "sale": 249, "currency": "USD" },
+  "discount": 83,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://liite.co/apple-touch-icon.png"
+}

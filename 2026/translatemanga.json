@@ -1,0 +1,14 @@
+{
+  "name": "TranslateManga",
+  "url": "https://translatemanga.net/?pricing_mode=annual#pricing",
+  "description": "Read raw manga, manhwa and webtoons in your language, with AI translation right inside the original speech bubbles",
+  "category": "ai",
+  "platforms": ["web", "chrome"],
+  "deal": "40% off, plans from $6/mo, no code needed (billed yearly)",
+  "pricing": "subscription",
+  "price": { "regular": 10, "sale": 6, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://translatemanga.net/logo_512.png"
+}

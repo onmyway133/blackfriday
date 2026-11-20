@@ -1,0 +1,19 @@
+{
+  "name": "TextSniper",
+  "url": "https://textsniper.app",
+  "description": "Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly.",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "70% off lifetime with code IGBF26",
+  "code": "IGBF26",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 7.99,
+    "sale": 2.40,
+    "currency": "USD"
+  },
+  "discount": 70,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-12",
+  "icon": "https://s3.us-east-1.amazonaws.com/textsniper.app/appIcon.png"
+}

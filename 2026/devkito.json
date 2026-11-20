@@ -1,0 +1,15 @@
+{
+  "name": "Devkito",
+  "url": "https://devkito.com/pricing",
+  "description": "122 offline developer tools in one desktop app: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "50% off the one-time licence with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 10, "sale": 5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-02",
+  "icon": "https://devkito.com/app-icon.png"
+}

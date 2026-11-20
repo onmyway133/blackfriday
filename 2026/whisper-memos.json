@@ -4,7 +4,7 @@
   "description": "Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries",
   "category": "productivity",
   "platforms": ["ios", "watch"],
-  "deal": "30% off yearly, $49.99/year instead of $69.99, price locked while subscribed",
+  "deal": "29% off yearly, $49.99/year instead of $69.99, price locked while subscribed",
   "pricing": "subscription",
   "price": { "regular": 69.99, "sale": 49.99, "currency": "USD" },
   "discount": 30,

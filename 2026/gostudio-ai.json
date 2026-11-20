@@ -1,0 +1,15 @@
+{
+    "name": "GoStudio.ai",
+    "url": "https://deals.gostudio.ai/black-friday-deals",
+    "description": "AI photo and video studio with 38+ one-click tools for headshots, product photos and image-to-video",
+    "category": "ai",
+    "deal": "Up to 30% off monthly plans above 1,000 credits and all yearly plans",
+    "platforms": ["web"],
+    "code": "BLACKFRIDAY30",
+    "pricing": "subscription",
+    "price": { "regular": 49.00, "sale": 34.99, "currency": "USD" },
+    "discount": 30,
+    "startDate": "2026-11-12",
+    "endDate": "2026-12-01",
+    "icon": "https://r1.gostudio.ai/public/final_Logo.svg"
+}

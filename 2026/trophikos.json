@@ -1,0 +1,14 @@
+{
+  "name": "Trophikos",
+  "url": "https://apps.apple.com/us/app/trophikos/id6773508921",
+  "description": "Recipe and cocktail library with a cooking log to remember what worked last time",
+  "category": "lifestyle",
+  "platforms": ["ios", "ipad", "watch", "tv"],
+  "deal": "80% off Lifetime Premium, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 9.99, "sale": 1.99, "currency": "USD" },
+  "discount": 80,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://trophikos.app/press/icons/trophikos-app-icon.png"
+}

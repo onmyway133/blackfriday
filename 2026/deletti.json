@@ -1,0 +1,12 @@
+{
+  "name": "Deletti",
+  "url": "https://deletti.app/#black-friday",
+  "description": "A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them",
+  "category": "utilities",
+  "platforms": ["ios"],
+  "deal": "Single Lifetime $8.99 USD (regular $17.99) with code BFCM26",
+  "code": "BFCM26",
+  "pricing": "lifetime",
+  "price": { "regular": 17.99, "sale": 8.99, "currency": "USD" },
+  "endDate": "2026-12-01"
+}

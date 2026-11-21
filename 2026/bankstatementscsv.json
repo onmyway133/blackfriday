@@ -1,0 +1,12 @@
+{
+  "name": "BankStatementsCSV",
+  "url": "https://bankstatementscsv.com/",
+  "description": "Convert PDF bank statements to clean CSV with AI extraction, free preview before you pay",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "10% off your first 10 conversions with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "discount": 10,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-01"
+}

@@ -1,0 +1,16 @@
+from pathlib import Path
+
+content = '''{
+  "name": "Zylyn",
+  "url": "https://zylyn.co/black-friday",
+  "description": "Website accessibility platform offering automated scanning, WCAG insights, ongoing monitoring, and reporting.",
+  "category": "marketing",
+  "deal": "90% off the first year",
+  "pricing": "subscription",
+  "discount": 90,
+  "endDate": "2026-12-20"
+}
+'''
+path = Path("/mnt/data/zylyn.json")
+path.write_text(content, encoding="utf-8")
+print(f"Created: {path}")

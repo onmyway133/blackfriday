@@ -3,7 +3,7 @@
   "url": "https://apps.apple.com/app/id1447768809",
   "description": "Rediscover your library with a customizable Apple Music player for iPhone and iPad",
   "category": "media",
-  "platforms": ["ios", "ipad", "mac"],
+  "platforms": ["ios", "ipad"],
   "deal": "50% off, $4.99 instead of $9.99",
   "pricing": "one-time",
   "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },

@@ -1,0 +1,14 @@
+{
+  "name": "BatchMark",
+  "url": "https://batchmark.dispatchcat.com/holiday-sale/",
+  "description": "Batch watermark up to 100 photos at once, art frames, Color Walk cards and Photo Stories for iPhone and iPad, on-device",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off Lifetime, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 79.99, "sale": 39.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-25",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/53/da/a153da6f-3d35-d973-ac49-3bebd303de13/vviimageicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+}

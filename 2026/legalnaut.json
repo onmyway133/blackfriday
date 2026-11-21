@@ -1,0 +1,14 @@
+{
+  "name": "Legalnaut",
+  "url": "https://legalnaut.com",
+  "description": "AI case workspace for litigation teams: chronology, contradictions and proof, with every fact linked to its source page",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "30% off any plan for 12 months with code BF2026",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 79, "sale": 55.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-21",
+  "endDate": "2026-11-30"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ZeroDirs",
+  "url": "https://zerodirs.com/#pricing",
+  "description": "SEO-first directory boilerplate built for AI coding agents and Cloudflare with $0/mo hosting, One-time payment for lifetime access",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "73% off lifetime license with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 179, "sale": 49, "currency": "USD" },
+  "discount": 73,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-20",
+  "icon": "https://zerodirs.com/apple-touch-icon.png"
+}

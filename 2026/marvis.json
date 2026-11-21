@@ -1,0 +1,14 @@
+{
+  "name": "Marvis Pro",
+  "url": "https://apps.apple.com/app/id1447768809",
+  "description": "Rediscover your library with a customizable Apple Music player for iPhone and iPad",
+  "category": "media",
+  "platforms": ["ios", "ipad", "mac"],
+  "deal": "50% off, $4.99 instead of $9.99",
+  "pricing": "one-time",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5e/48/e65e48a5-c3c3-658c-3c4c-fce3cabae456/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg"
+}

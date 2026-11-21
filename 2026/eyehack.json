@@ -1,0 +1,15 @@
+{
+  "name": "EyeHack",
+  "url": "https://eyehack.app",
+  "description": "Mac menu bar app for the 20-20-20 rule: every 20 minutes it covers the screen for 20 seconds with cats, nature photos or breathing, with no skip button",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "47% off one-time with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 7.99, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://eyehack.app/apple-icon.png"
+}

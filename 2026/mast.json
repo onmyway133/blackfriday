@@ -1,0 +1,13 @@
+{
+  "name": "Mast",
+  "url": "https://mastrules.com/en/founders?utm_source=indiegoodies&utm_medium=launch&utm_campaign=bf2026",
+  "description": "Rule locks for traders: set your daily loss limits while calm, and loosening them waits 24 hours. Pre-launch, opening soon",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "300 seats: 2 years of Core for $249 once, then $99/year. Refundable until launch",
+  "pricing": "one-time",
+  "price": { "regular": 478, "sale": 249, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-31"
+}

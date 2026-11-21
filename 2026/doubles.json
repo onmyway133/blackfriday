@@ -1,0 +1,15 @@
+{
+  "name": "Doubles",
+  "url": "https://doubles.dev/pricing",
+  "description": "Remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive, and talk and draw together",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "50% off with code DOUBLES50, pay once",
+  "code": "DOUBLES50",
+  "pricing": "one-time",
+  "price": { "regular": 169, "sale": 84.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://doubles.dev/apple-touch-icon.png"
+}

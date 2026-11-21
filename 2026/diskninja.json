@@ -1,0 +1,23 @@
+{
+  "name": "DiskNinja",
+  "url": "https://diskninja.app/blackfriday/",
+  "description": "Disk space analyzer for Mac, Windows and Linux with a free disk map and optional Pro cleanup suggestions",
+  "category": "utilities",
+  "deal": "50% off the first year of Pro Yearly with code NINJABF26",
+  "platforms": [
+    "mac",
+    "windows",
+    "linux"
+  ],
+  "code": "NINJABF26",
+  "pricing": "subscription",
+  "price": {
+    "regular": 14.99,
+    "sale": 7.49,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-02",
+  "icon": "https://diskninja.app/assets/diskninja-icon-512.png"
+}

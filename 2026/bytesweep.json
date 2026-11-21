@@ -1,0 +1,14 @@
+{
+  "name": "ByteSweep",
+  "url": "https://bytesweep.app",
+  "description": "Disk cleaner that shows what fills your disk and removes only what you pick, with undo for 7 days",
+  "category": "utilities",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "50% off, applied at checkout",
+  "pricing": "one-time",
+  "price": { "regular": 29.99, "sale": 15, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-31",
+  "icon": "https://bytesweep.app/assets/apple-touch-icon.png"
+}

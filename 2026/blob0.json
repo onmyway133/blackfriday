@@ -1,0 +1,14 @@
+{
+  "name": "Blob0",
+  "url": "https://blob0.com/",
+  "description": "macOS desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "20% off one-time Personal and Team licenses with BLACKFRIDAY20",
+  "code": "BLACKFRIDAY20",
+  "pricing": "one-time",
+  "price": { "regular": 16.90, "sale": 13.52, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-30"
+}

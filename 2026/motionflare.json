@@ -1,0 +1,14 @@
+{
+  "name": "Motionflare",
+  "url": "https://motionflare.ai/pricing",
+  "description": "Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "50% off the first month of Pro ($14.50) or Max ($49.50), no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 29, "sale": 14.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-01",
+  "icon": "https://motionflare.ai/icons/icon-512.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Expando",
+  "url": "https://expando.app",
+  "description": "Text expansion for the Mac with no account: fill-in forms, date math, scripts, and your snippets from the app you use now",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code EXPANDO20",
+  "code": "EXPANDO20",
+  "pricing": "one-time",
+  "price": { "regular": 33, "sale": 26.4, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://expando.app/apple-touch-icon.png"
+}

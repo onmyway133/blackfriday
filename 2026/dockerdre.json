@@ -1,0 +1,15 @@
+{
+  "name": "DOCKERDRE",
+  "url": "https://dockerdre.app",
+  "description": "Shows every window of the highlighted app above Command-Tab on the Mac, so the right window is one glance away",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code DOCKERDRE20",
+  "code": "DOCKERDRE20",
+  "pricing": "one-time",
+  "price": { "regular": 4.2, "sale": 3.36, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://dockerdre.app/apple-touch-icon.png"
+}

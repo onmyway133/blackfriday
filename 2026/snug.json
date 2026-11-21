@@ -1,0 +1,15 @@
+{
+  "name": "Snug",
+  "url": "https://snug.menu",
+  "description": "A menu bar manager for the Mac: keep the icons you use, tuck the rest away. No telemetry, and it needs no Screen Recording permission",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code SNUG20",
+  "code": "SNUG20",
+  "pricing": "one-time",
+  "price": { "regular": 23, "sale": 18.4, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://snug.menu/assets/apple-touch-icon.png"
+}

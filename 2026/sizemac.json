@@ -1,0 +1,15 @@
+{
+  "name": "Sizemac",
+  "url": "https://sizemac.app",
+  "description": "A keyboard-first window manager for the Mac: halves, quarters, thirds and sixths on every display, with Snap Back and saved layouts",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code SIZEMAC20",
+  "code": "SIZEMAC20",
+  "pricing": "one-time",
+  "price": { "regular": 9, "sale": 7.2, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://sizemac.app/apple-touch-icon.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Shotcourier",
+  "url": "https://shotcourier.com",
+  "description": "A Mac menu bar app that copies every screenshot at once and sends it to Photos, a folder, Dropbox, iCloud Drive or a link from one card",
+  "category": "design",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code SHOTCOURIER20",
+  "code": "SHOTCOURIER20",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 23.2, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://shotcourier.com/apple-touch-icon.png"
+}

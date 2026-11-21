@@ -1,0 +1,15 @@
+{
+  "name": "Footman",
+  "url": "https://getfootman.com",
+  "description": "A keyboard launcher for the Mac that runs your Alfred workflow bundles unmodified. No account, no telemetry",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code FOOTMAN20",
+  "code": "FOOTMAN20",
+  "pricing": "one-time",
+  "price": { "regular": 33, "sale": 26.4, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://getfootman.com/apple-touch-icon.png"
+}

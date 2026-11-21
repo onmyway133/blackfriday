@@ -1,0 +1,15 @@
+{
+  "name": "Macdials",
+  "url": "https://macdials.com",
+  "description": "Brightness, contrast and volume for external monitors from the Mac menu bar and your keyboard's own keys",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "20% off the one-time license with code MACDIALS20",
+  "code": "MACDIALS20",
+  "pricing": "one-time",
+  "price": { "regular": 11, "sale": 8.8, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://macdials.com/apple-touch-icon.png"
+}

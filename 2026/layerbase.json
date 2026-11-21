@@ -1,0 +1,13 @@
+{
+  "name": "Layerbase",
+  "url": "https://layerbase.com/pricing",
+  "description": "Serverless databases with flat monthly pricing across 19 cloud engines including Postgres, MySQL, Redis and Valkey, with no egress or usage metering",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "50% off first month: Solo $2.50 then $5/mo, Pro $7.50 then $15/mo; 50 uses/code",
+  "pricing": "subscription",
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-30",
+  "icon": "https://layerbase.com/apple-icon.png"
+}

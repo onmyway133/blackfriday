@@ -1,0 +1,13 @@
+{
+  "name": "Unraster",
+  "url": "https://unraster.ai/pricing",
+  "description": "Turn slide and chart screenshots into editable PowerPoint or SVG, in your browser",
+  "category": "productivity",
+  "platforms": ["web"],
+  "deal": "45% off the 150-credit pack with code BLACKFRIDAY45",
+  "code": "BLACKFRIDAY45",
+  "pricing": "one-time",
+  "price": { "regular": 79.9, "sale": 43.95, "currency": "USD" },
+  "discount": 45,
+  "endDate": "2026-12-01"
+}

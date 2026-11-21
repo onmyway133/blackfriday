@@ -1,0 +1,15 @@
+{
+  "name": "Timemator",
+  "url": "https://timemator.com",
+  "description": "Automatic time tracking for Mac: records working time from your project files, apps and websites, and creates timesheets",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off the lifetime license with code TM-BLACKFRIDAY26",
+  "code": "TM-BLACKFRIDAY26",
+  "pricing": "lifetime",
+  "price": { "regular": 39, "sale": 19.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-05",
+  "icon": "https://timemator.com/images/timemator-mac-icon-256w@2x.png"
+}

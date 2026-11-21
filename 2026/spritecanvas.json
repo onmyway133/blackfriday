@@ -1,0 +1,14 @@
+{
+  "name": "SpriteCanvas",
+  "url": "https://spritecanvas.com/pricing/",
+  "description": "AI sprite sheet generator for 2D games: describe or upload a character, generate idle, walk, run and attack animations, export PNG + JSON",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "30% off the first month of Starter or Pro (monthly), first subscription only, no code",
+  "pricing": "subscription",
+  "price": { "regular": 12, "sale": 8.4, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-01",
+  "icon": "https://spritecanvas.com/apple-touch-icon.png"
+}

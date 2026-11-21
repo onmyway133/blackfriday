@@ -1,0 +1,14 @@
+{
+  "name": "Snapperon",
+  "url": "https://snapperon.com/#pricing",
+  "description": "Annotate screenshots, redact private details, and copy text from images on your Mac. Developed by Snapperon Team.",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off: $1/month for 12 months, $10 for the first year, or $19.50 lifetime (USD)",
+  "code": "BLACKFRIDAY26",
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01"
+}

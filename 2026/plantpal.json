@@ -1,0 +1,14 @@
+{
+  "name": "PlantPal",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=1566070492&code=BF2026",
+  "description": "Plant care journal for iPhone and iPad: watering reminders, a photo diary for every plant, rooms to keep them organized, and iCloud sync with no account",
+  "category": "lifestyle",
+  "platforms": ["ios", "ipad"],
+  "deal": "Up to 30% off your first year of PlantPal Pro with code BF2026",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "discount": 30,
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-30",
+  "icon": "https://plantpal.net/assets/icon-1024.png"
+}

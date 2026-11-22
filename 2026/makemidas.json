@@ -1,0 +1,12 @@
+{
+  "name": "MakeMidas",
+  "url": "https://makemidas.com/pricing",
+  "description": "AI image, video and music generator with GPT Image, Nano Banana, Veo, Kling, Seedance and Suno in one web app, on one credit balance",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "Up to 25% more credits on every credit pack, no code",
+  "pricing": "one-time",
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://makemidas.com/android-chrome-512x512.png"
+}

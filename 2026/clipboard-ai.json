@@ -1,0 +1,15 @@
+{
+  "name": "Clipboard AI",
+  "url": "https://clipboardai.app/black-friday",
+  "description": "Remember everything you copy on your iPhone and Mac, forever: search your clipboard history and paste it anywhere",
+  "category": "productivity",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "30% off Lifetime Pro, pay once ($34.99 → $24.99)",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": { "regular": 34.99, "sale": 24.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://clipboardai.app/assets/logo.png"
+}

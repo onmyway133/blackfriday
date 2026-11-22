@@ -1,0 +1,14 @@
+{
+  "name": "ScreenPost",
+  "url": "https://screenpost.app/buy?promo=LAUNCH19&ref=indie-goodies",
+  "description": "Native Mac app: capture screenshots, recordings and GIFs, auto-redact secrets, and post to X in seconds",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "$19 instead of $29 with code LAUNCH19",
+  "code": "LAUNCH19",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 19, "currency": "USD" },
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://screenpost.app/favicon.png"
+}

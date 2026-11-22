@@ -1,0 +1,21 @@
+{
+  "name": "Waitlyze",
+  "url": "https://waitlyze.com/pricing",
+  "description": "Waitlist software with verified referrals, visual page builder, email campaigns, and attribution analytics",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% off Pro Annual first year with code BFCM2026",
+  "code": "BFCM2026",
+  "pricing": "subscription",
+  "price": {
+    "regular": 119,
+    "sale": 71.4,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-03",
+  "icon": "https://waitlyze.com/apple-icon.png"
+}

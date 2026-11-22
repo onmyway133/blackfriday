@@ -1,0 +1,15 @@
+{
+  "name": "Helix",
+  "url": "https://tryhelix.app/?utm_source=github&utm_campaign=indiegoodies-bf",
+  "description": "Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "30% off one-time for 2 Macs with code BLACKFRIDAY30",
+  "code": "BLACKFRIDAY30",
+  "pricing": "one-time",
+  "price": { "regular": 9, "sale": 6.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://tryhelix.app/apple-touch-icon.png"
+}

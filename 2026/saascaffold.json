@@ -1,0 +1,20 @@
+{
+  "name": "SaaScaffold",
+  "url": "https://saascaffold.com/pricing",
+  "description": "Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, and an admin center",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off Early Access one-time license ($49 instead of $99, auto-applied)",
+  "pricing": "one-time",
+  "price": {
+    "regular": 99,
+    "sale": 49,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-06",
+  "icon": "https://saascaffold.com/brand/saascaffold-icon-512.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ScribeToAny",
+  "url": "https://scribetoany.com/pricing",
+  "description": "Audio and video to transcripts, SRT/VTT subtitles and AI summaries in about 98 languages, with speaker labels",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "30% off first month (FIRST_30_OFF) or $20 off first year (FIRST_20_OFF)",
+  "code": "FIRST_30_OFF",
+  "pricing": "subscription",
+  "price": { "regular": 10, "sale": 7, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-30",
+  "icon": "https://scribetoany.com/android-chrome-512x512.png"
+}

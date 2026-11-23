@@ -1,0 +1,14 @@
+{
+  "name": "MeetMic",
+  "url": "https://meetmic.app/buy",
+  "description": "Record, transcribe and dictate on your Mac with on-device processing and no meeting bots",
+  "category": "productivity",
+  "platforms": ["mac", "ios", "ipad", "watch"],
+  "deal": "55% off lifetime licences with code BF26",
+  "code": "BF26",
+  "pricing": "lifetime",
+  "price": { "regular": 59, "sale": 26.55, "currency": "USD" },
+  "discount": 55,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-10"
+}

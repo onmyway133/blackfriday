@@ -1,7 +1,7 @@
 {
-  "name": "DataCheck",
+  "name": "datacheck.cc (DataCheck)",
   "url": "https://datacheck.cc/en/pricing",
-  "description": "Rule-driven duplicate, shift and anomaly checks for research tables with source-cell evidence on Web and Windows",
+  "description": "Research table verification platform featuring DataCheck: rule-driven duplicate, shift and anomaly checks with source-cell evidence on Web and Windows",
   "category": "utilities",
   "platforms": ["web", "windows"],
   "deal": "30% off one-time packs & perpetual desktop licenses, auto-applied",

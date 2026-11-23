@@ -1,0 +1,14 @@
+{
+  "name": "DataCheck",
+  "url": "https://datacheck.cc/en/pricing",
+  "description": "Rule-driven duplicate, shift and anomaly checks for research tables with source-cell evidence on Web and Windows",
+  "category": "utilities",
+  "platforms": ["web", "windows"],
+  "deal": "30% off one-time packs & perpetual desktop licenses, auto-applied",
+  "pricing": "one-time",
+  "price": { "regular": 116, "sale": 81.2, "currency": "HKD" },
+  "discount": 30,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-05",
+  "icon": "https://datacheck.cc/brand/datacheck-logo-512.png"
+}

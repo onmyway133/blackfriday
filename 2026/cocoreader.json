@@ -1,0 +1,14 @@
+{
+  "name": "CocoReader",
+  "url": "https://www.cocoreader.cc/black-friday",
+  "description": "Reads the EPUB books you already own aloud on iPhone, with a Mac version",
+  "category": "education",
+  "platforms": ["ios", "mac"],
+  "deal": "33% off first year of annual Pro ($29.99 → $19.99), no code",
+  "pricing": "subscription",
+  "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://www.cocoreader.cc/icon.png"
+}

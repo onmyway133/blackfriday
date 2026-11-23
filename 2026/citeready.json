@@ -1,0 +1,19 @@
+{
+  "name": "CiteReady",
+  "url": "https://citeready-checker.appwrite.network/",
+  "description": "AI search visibility and GEO auditor checking 10 AI crawlers, Schema.org entity graphs, and /llms.txt with 50-URL batch exports",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "83% off Web Pro one-time ($2 instead of $12, no code needed)",
+  "pricing": "one-time",
+  "price": {
+    "regular": 12,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 83,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-02"
+}

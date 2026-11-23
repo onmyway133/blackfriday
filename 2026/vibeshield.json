@@ -1,0 +1,19 @@
+{
+  "name": "VibeShield",
+  "url": "https://vibe-checker.appwrite.network/",
+  "description": "Passive 116-check web app security scanner for AI-built sites covering headers, JS secret leaks, Supabase RLS, and Firebase rules",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "78% off one-time fix pass ($2 instead of $9, no code needed)",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 78,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-02"
+}

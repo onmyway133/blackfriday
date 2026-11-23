@@ -1,0 +1,15 @@
+{
+  "name": "12happy",
+  "url": "https://www.12hpy.com/deals/black-friday?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "description": "Uptime monitoring for websites, APIs and cron jobs, with alerts and status pages",
+  "category": "developer-tools",
+  "platforms": ["web", "ios", "android"],
+  "deal": "3 months of Pro free, no card needed, first 100 accounts",
+  "code": "BLACKFRIDAY",
+  "pricing": "subscription",
+  "price": { "regular": 45, "sale": 0, "currency": "USD" },
+  "discount": 100,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01",
+  "icon": "https://www.12hpy.com/favicon.png"
+}

@@ -1,0 +1,18 @@
+
+{
+  "name": "TabLinker",
+  "url": "https://apps.apple.com/us/app/tablinker-tabs-manager/id6758283574?platform=mac",
+  "description": "Mac-first browser session manager. Save and restore tabs and windows across multiple browsers, organize links, and sync with iCloud",
+  "category": "productivity",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "45% off Lifetime Pro, automatically applied in-app",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 17.99,
+    "sale": 9.99,
+    "currency": "USD"
+  },
+  "discount": 45,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DiskMate",
+  "url": "https://diskmate.app",
+  "description": "Native macOS disk space analyzer and cleaner to see what is eating your disk and clean it safely",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime ($10 → $5)",
+  "pricing": "lifetime",
+  "price": { "regular": 10, "sale": 5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-02",
+  "icon": "https://diskmate.app/icon1.png"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vector Ink",
+  "url": "https://vectorink.io/black-friday",
+  "description": "Online vector editor for logos, icons and SVG art, with AI tools and browser, Mac and mobile access",
+  "category": "design",
+  "platforms": ["web", "mac"],
+  "deal": "Lifetime $49.99 instead of $79.99, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 79.99, "sale": 49.99, "currency": "USD" },
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://cdn.vectorink.io/blog/vector-ink-logo.png"
+}

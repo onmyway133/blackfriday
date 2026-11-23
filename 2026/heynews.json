@@ -1,0 +1,15 @@
+{
+  "name": "HeyNews",
+  "url": "https://app.heynews.co/register?coupon_code=BLACKFRIDAY50&trial_mode=card&utm_source=github-onmyway133&utm_medium=referral&utm_campaign=bf2026",
+  "description": "AI that drafts your newsletter in your voice from the blogs, RSS feeds and news sites you follow, ready to edit and send",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off any plan for 12 months, monthly plans included",
+  "code": "BLACKFRIDAY50",
+  "pricing": "subscription",
+  "price": { "regular": 39, "sale": 19.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://heynews.co/assets/icons/web-app-manifest-512x512.png"
+}

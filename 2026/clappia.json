@@ -3,8 +3,12 @@
   "url": "https://www.clappia.com/black-friday-offer",
   "description": "AI-powered no-code app builder for business apps: GPS attendance, inspections, inventory, approval workflows and offline forms",
   "category": "productivity",
-  "platforms": ["web", "ios", "android"],
-  "deal": "50% off annual plans for new customers",
+  "platforms": [
+    "web",
+    "ios",
+    "android"
+  ],
+  "deal": "50% off the monthly price on annual plans, for new customers",
   "code": "BLACKFRD",
   "pricing": "subscription",
   "discount": 50,

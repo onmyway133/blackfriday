@@ -1,0 +1,14 @@
+{
+  "name": "BoxAudit",
+  "url": "https://getboxaudit.com",
+  "description": "USPS Cubic & UPS/FedEx DIM-139 shipping box optimizer for Shopify, Etsy, and Pirate Ship sellers.",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "41% off one-time 90-day box audit ($29, reg. $49) — no code needed, 200/day",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 29, "currency": "USD" },
+  "discount": 41,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://getboxaudit.com/apple-touch-icon.png"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Blackout",
+  "url": "https://blackoutapp.io/",
+  "description": "Turn off your MacBook's built-in display while using an external monitor, with the lid open",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "40% off lifetime with code BLACKFRIDAY40",
+  "code": "BLACKFRIDAY40",
+  "pricing": "one-time",
+  "discount": 40,
+  "icon": "https://blackoutapp.io/assets/blackout-logo-square.png"
+}

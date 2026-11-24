@@ -1,0 +1,15 @@
+{
+  "name": "Poxture App",
+  "url": "https://poxture.com/",
+  "description": "Mac menu bar app that checks your posture through the camera and nudges you with the fix. No account, no subscription, works without internet",
+  "category": "lifestyle",
+  "platforms": ["mac"],
+  "deal": "34% off: $29 once becomes $19 with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 19, "currency": "USD" },
+  "discount": 34,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://poxture.com/apple-touch-icon.png"
+}

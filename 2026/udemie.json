@@ -4,10 +4,10 @@
   "description": "Offline study app for Windows and Linux: download Udemy, Coursera and LinkedIn Learning courses you already own and study with player, notes and AI tools",
   "category": "education",
   "platforms": ["windows", "linux"],
-  "deal": "30% off annual (code BLACKFRIDAY30), 20% off lifetime (code BLACKFRIDAY20)",
+  "deal": "30% off annual ($80 → $56, BLACKFRIDAY30); lifetime $140 instead of $175 (BLACKFRIDAY20)",
   "code": "BLACKFRIDAY30",
   "pricing": "subscription",
-  "price": { "regular": 69.99, "sale": 48.99, "currency": "EUR" },
+  "price": { "regular": 80, "sale": 56, "currency": "USD" },
   "discount": 30,
   "startDate": "2026-11-24",
   "endDate": "2026-12-01"

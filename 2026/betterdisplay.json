@@ -1,0 +1,16 @@
+{
+  "name": "BetterDisplay",
+  "url": "https://betterdisplay.pro/",
+  "description": "Mac display utility for HiDPI scaling, XDR/HDR brightness and virtual screens",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "33% off Pro, one-time purchase with at least 2 years of free updates",
+  "code": "BFCM2026",
+  "pricing": "one-time",
+  "discount": 33,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://github.com/user-attachments/assets/3a3e7683-1bfc-4ba1-9a91-4a458488899f"
+}

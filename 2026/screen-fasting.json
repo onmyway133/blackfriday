@@ -1,0 +1,15 @@
+{
+  "name": "Screen Fasting",
+  "url": "https://tryscreenfasting.com/#pricing",
+  "description": "Locks your iPhone into Assistive Access and keeps the passcode until your fast ends, so you can't undo it on impulse. Mac app included",
+  "category": "productivity",
+  "platforms": ["ios", "mac", "web"],
+  "deal": "60% off Pro: $18 instead of $45 a year",
+  "code": "BLACKCYBER60",
+  "pricing": "subscription",
+  "price": { "regular": 45, "sale": 18, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://tryscreenfasting.com/images/apple-touch-icon.png"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Metronome by Audomi",
+  "url": "https://apps.apple.com/app/id6820653905",
+  "description": "A metronome you can see, hear and feel, for iPhone, iPad and Apple Watch",
+  "category": "education",
+  "platforms": ["ios", "ipad", "watch"],
+  "deal": "40% off, one-time purchase, no code",
+  "pricing": "one-time",
+  "price": { "regular": 4.99, "sale": 2.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01"
+}

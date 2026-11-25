@@ -1,0 +1,21 @@
+{
+  "name": "Horcrux Email Backup",
+  "url": "https://thehorcrux.com/pricing/#black-friday-2026",
+  "description": "Back up Gmail, Outlook, and other IMAP mailboxes to your own storage and search saved messages offline on Mac",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "30% off the Horcrux 5 one-time purchase with BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 49.99,
+    "sale": 34.99,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://thehorcrux.com/app-icon.png"
+}

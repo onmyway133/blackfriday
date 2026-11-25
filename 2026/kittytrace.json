@@ -1,0 +1,15 @@
+{
+  "name": "KittyTrace",
+  "url": "https://kittytrace.com/?utm_source=indiegoodies&utm_campaign=bf2026",
+  "description": "Self-hosted error tracking for the Sentry SDK, with a CLI for coding agents. Runs free on your Cloudflare account or on a Docker server",
+  "category": "developer-tools",
+  "platforms": ["web", "linux"],
+  "deal": "34% off the one-time license with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 19, "currency": "USD" },
+  "discount": 34,
+  "startDate": "2026-11-17",
+  "endDate": "2026-12-01",
+  "icon": "https://kittytrace.com/icon-512.png"
+}

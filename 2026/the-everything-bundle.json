@@ -1,0 +1,18 @@
+{
+  "name": "The Everything Bundle",
+  "url": "https://theoddchild.com/product/everything-bundle/",
+  "description": "41 AI prompt packs & toolkits (video, marketing, business, audio) — $330.80 of prompts in one bundle",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "79% off — $69 CAD, was $330.80, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 330.8,
+    "sale": 69,
+    "currency": "CAD"
+  },
+  "discount": 79,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://theoddchild.com/wp-content/uploads/2026/11/The-Everything-Bundle.webp"
+}

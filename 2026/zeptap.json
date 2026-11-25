@@ -1,0 +1,14 @@
+{
+  "name": "Zeptap",
+  "url": "https://zeptap.com/pricing",
+  "description": "Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps, with no Xcode or developer account",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "50% off every plan, Lifetime $99 once instead of $199",
+  "pricing": "lifetime",
+  "price": { "regular": 199, "sale": 99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://zeptap.com/apple-touch-icon.png"
+}

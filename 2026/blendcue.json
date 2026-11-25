@@ -1,15 +1,15 @@
 {
-    "name": "BlendCue",
-    "url": "https://blendcue.com/?ref=bf-indiegoodies",
-    "description": "Companion app for Serato DJ Pro that shortlists the next track from your own library by key, BPM, energy and genre",
-    "category": "media",
-    "platforms": ["mac", "windows"],
-    "deal": "40% off the one-time licence, $49 → $29 with code FOUNDINGSOLO",
-    "code": "FOUNDINGSOLO",
-    "pricing": "one-time",
-    "price": { "regular": 49, "sale": 29, "currency": "USD" },
-    "discount": 40,
-    "startDate": "2026-11-24",
-    "endDate": "2026-12-31",
-    "icon": "https://blendcue.com/icon.png"
+  "name": "BlendCue",
+  "url": "https://blendcue.com/?ref=bf-indiegoodies",
+  "description": "Companion app for Serato DJ Pro that shortlists the next track from your own library by key, BPM, energy and genre",
+  "category": "media",
+  "platforms": ["mac", "windows"],
+  "deal": "40% off the one-time licence, $49 → $29 with code FOUNDINGSOLO",
+  "code": "FOUNDINGSOLO",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 29, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-31",
+  "icon": "https://blendcue.com/icon.png"
 }

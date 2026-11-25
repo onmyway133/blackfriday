@@ -1,0 +1,15 @@
+{
+  "name": "Social Fetch",
+  "url": "https://www.socialfetch.dev/black-friday",
+  "description": "API that returns public social media data as JSON from TikTok, Instagram, YouTube, X, Reddit and more, with a hosted MCP server for AI agents",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "Double credits at checkout, no code needed, until 1 Dec",
+  "pricing": "subscription",
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-01",
+  "icon": "https://www.socialfetch.dev/icon-512.png"
+}
+
+
+

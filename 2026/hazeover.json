@@ -1,0 +1,14 @@
+{
+  "name": "HazeOver",
+  "url": "https://hazeover.com",
+  "description": "Dims background windows to highlight the active one on your Mac",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "60% off, one-time purchase",
+  "pricing": "one-time",
+  "price": { "regular": 4.99, "sale": 1.99, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://hazeover.com/images/hazeover1024.png"
+}

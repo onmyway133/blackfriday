@@ -1,0 +1,20 @@
+{
+  "name": "ChatSEO",
+  "url": "https://chatseo.app/pricing?utm_source=indiegoodies&utm_medium=directory&utm_campaign=black-friday-2026&utm_term=en",
+  "description": "AI SEO assistant on live SERP, keyword, backlink and Search Console data: keyword research, audits, content and GEO",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% off the first year of any annual plan, no code needed",
+  "pricing": "subscription",
+  "price": {
+    "regular": 468,
+    "sale": 280.8,
+    "currency": "EUR"
+  },
+  "discount": 40,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://chatseo.app/apple-touch-icon.png"
+}

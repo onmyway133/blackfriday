@@ -1,0 +1,21 @@
+{
+  "name": "SiteData",
+  "url": "https://sitedata.dev/black-friday",
+  "description": "Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs",
+  "category": "marketing",
+  "platforms": [
+    "web",
+    "chrome"
+  ],
+  "deal": "50% off annual, 30% off monthly while subscribed. No code. Ends Nov 30, 16:00 UTC",
+  "pricing": "subscription",
+  "price": {
+    "regular": 99,
+    "sale": 49.5,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://sitedata.dev/logo.png"
+}

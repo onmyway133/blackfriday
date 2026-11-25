@@ -1,0 +1,16 @@
+{
+  "name": "FireCut",
+  "url": "https://firecut.ai/pricing/all/",
+  "description": "AI video editing plugin for Premiere Pro & DaVinci Resolve",
+  "category": "media",
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "deal": "50% off new annual plans ($59 -> $29.50/mo Max, $34 -> $17/mo Pro), no code needed",
+  "pricing": "subscription",
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30",
+  "icon": "https://firecut.ai/static/firecut_logo.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Glocavo",
+  "url": "https://gbpseotools.com/pricing?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "description": "Local SEO app: Google Maps grid rank tracking, AI visibility checks, SERP tracking and Google Business Profile management",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "30% off your first 3 months on any monthly plan",
+  "code": "BF26MONTH",
+  "pricing": "subscription",
+  "price": { "regular": 21.99, "sale": 15.39, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://glocavo.gbpseotools.com/brand/glocavo/icon-petal-g-v4-512.png"
+}

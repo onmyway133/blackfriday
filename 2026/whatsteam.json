@@ -1,0 +1,15 @@
+{
+  "name": "WhatsTeam",
+  "url": "https://whats.team",
+  "description": "Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with campaigns and AI agents",
+  "category": "business",
+  "platforms": ["web", "android"],
+  "deal": "40% off the first 6 months of any monthly plan with code BLACKFRIDAY40",
+  "code": "BLACKFRIDAY40",
+  "pricing": "subscription",
+  "price": { "regular": 29, "sale": 17.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01",
+  "icon": "https://whats.team/apple-touch-icon.png"
+}

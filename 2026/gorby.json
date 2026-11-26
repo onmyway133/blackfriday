@@ -1,0 +1,15 @@
+{
+  "name": "Gorby",
+  "url": "https://gorby.app/offers/black-friday-2026/?utm_source=indiegoodies&utm_campaign=black-friday-2026",
+  "description": "Self-editing app for writers: the reading level of every paragraph, each sentence colored by length, and the words you could cut",
+  "category": "writing",
+  "platforms": ["mac", "windows", "web"],
+  "deal": "30% off the 1-year and Lifetime licenses with code GORBYBF26",
+  "code": "GORBYBF26",
+  "pricing": "lifetime",
+  "price": { "regular": 150, "sale": 105, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-15",
+  "icon": "https://gorby.app/assets/icons/icon-512.png"
+}

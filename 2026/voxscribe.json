@@ -1,0 +1,15 @@
+{
+  "name": "VoxScribe",
+  "url": "https://voxscribe.dev",
+  "description": "Offline voice dictation for Windows and Android: hold a key, talk, and your words are typed into any app. Free and open source, Pro adds more",
+  "category": "productivity",
+  "platforms": ["windows", "android"],
+  "deal": "Pro for $24 instead of $39, one-time, with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 39, "sale": 24, "currency": "USD" },
+  "discount": 38,
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30",
+  "icon": "https://voxscribe.dev/apple-touch-icon.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BrassWell",
+  "url": "https://brasswell.app/black-friday",
+  "description": "Bookkeeping for the self-employed: income, expenses, receipts, mileage, invoices and a tax set-aside",
+  "category": "business",
+  "platforms": [
+    "ios",
+    "ipad",
+    "android",
+    "web"
+  ],
+  "deal": "25% off the first year of Pro yearly with code BLACKFRIDAY25",
+  "code": "BLACKFRIDAY25",
+  "pricing": "subscription",
+  "price": {
+    "regular": 299,
+    "sale": 224.25,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://brasswell.app/apple-touch-icon.png"
+}

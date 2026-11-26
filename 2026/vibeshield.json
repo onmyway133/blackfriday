@@ -1,6 +1,6 @@
 {
   "name": "VibeShield",
-  "url": "https://vibe-checker.appwrite.network/",
+  "url": "https://shipbastion.com/",
   "description": "Passive 116-check web app security scanner for AI-built sites covering headers, JS secret leaks, Supabase RLS, and Firebase rules",
   "category": "developer-tools",
   "platforms": [

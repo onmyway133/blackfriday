@@ -1,0 +1,14 @@
+{
+  "name": "AtAt",
+  "url": "https://atatapp.com/black-friday",
+  "description": "Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "47% off Lifetime ($89, was $169) and 34% off first year ($39/yr), auto-applied",
+  "pricing": "lifetime",
+  "price": { "regular": 169, "sale": 89, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-15",
+  "icon": "https://atatapp.com/atat-logo-512.png"
+}

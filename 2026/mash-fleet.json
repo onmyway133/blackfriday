@@ -1,0 +1,13 @@
+{
+  "name": "Mash Fleet",
+  "url": "https://mashfleet.com",
+  "description": "Lifetime access to 5 tools for X, LinkedIn, bookmarks, scheduling and analytics: Tweetsmash, LinkedMash, Agentmash, Schedulemash and Mashpulse",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "Lifetime bundle $299 instead of $645/yr for the 5 plans; price rises every 5 buyers",
+  "pricing": "lifetime",
+  "price": { "regular": 645, "sale": 299, "currency": "USD" },
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://mashfleet.com/apple-touch-icon.png"
+}

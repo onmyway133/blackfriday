@@ -4,7 +4,7 @@
   "description": "Hosted control panel for your own Ubuntu servers: deploy Laravel, PHP, Node.js and Next.js over SSH with Caddy HTTPS",
   "category": "developer-tools",
   "platforms": ["web"],
-  "deal": "40% off the first payment of any plan",
+  "deal": "40% off any plan, for life",
   "code": "BLACKFRIDAY40",
   "pricing": "subscription",
   "price": { "regular": 12, "sale": 7.2, "currency": "USD" },

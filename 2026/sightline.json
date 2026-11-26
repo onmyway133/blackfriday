@@ -1,0 +1,14 @@
+{
+  "name": "Sightline",
+  "url": "https://sightlinemac.com/black-friday/",
+  "description": "Mac screenshot and screen-recording app with a built-in image and video editor",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "23% off lifetime Pro, $29.99 → $22.99, code SIGHTLINELIFEDISCOUNT26",
+  "code": "SIGHTLINELIFEDISCOUNT26",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 22.99, "currency": "USD" },
+  "discount": 23,
+  "endDate": "2026-12-31",
+  "icon": "https://sightlinemac.com/assets/icon.png"
+}

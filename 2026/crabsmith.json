@@ -1,0 +1,15 @@
+{
+  "name": "Crabsmith",
+  "url": "https://crabsmith.com/#pricing",
+  "description": "Hosted control panel for your own Ubuntu servers: deploy Laravel, PHP, Node.js and Next.js over SSH with Caddy HTTPS",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "40% off the first payment of any plan",
+  "code": "BLACKFRIDAY40",
+  "pricing": "subscription",
+  "price": { "regular": 12, "sale": 7.2, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://crabsmith.com/assets/mark.svg"
+}

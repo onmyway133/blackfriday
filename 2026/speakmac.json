@@ -1,0 +1,21 @@
+{
+  "name": "Speakmac",
+  "url": "https://www.speakmac.app/buy?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "description": "Private, offline voice dictation in any Mac app and bot-free meeting notes",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "35% off one-time Mac licenses ($29 -> $18.85 / $39 -> $25.35)",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 29,
+    "sale": 18.85,
+    "currency": "USD"
+  },
+  "discount": 35,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-07",
+  "icon": "https://www.speakmac.app/favicon.png"
+}

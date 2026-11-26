@@ -1,0 +1,20 @@
+{
+  "name": "OutFlo AI",
+  "url": "https://www.outflo.io/black-friday-2026",
+  "description": "LinkedIn outreach across many accounts from one dashboard, with every reply in one shared inbox, also from Claude or your own AI agents",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Up to 50% off yearly plans, price locked for life",
+  "pricing": "subscription",
+  "price": {
+    "regular": 49,
+    "sale": 24,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://www.outflo.io/assets/logo.png"
+}

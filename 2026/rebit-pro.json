@@ -1,0 +1,23 @@
+{
+  "name": "Rebit Pro",
+  "url": "https://rebit.cc/",
+  "description": "Play your own retro games on the web or your phone, with cloud saves and multiplayer",
+  "category": "lifestyle",
+  "platforms": [
+    "web",
+    "ios",
+    "ipad",
+    "android"
+  ],
+  "deal": "40% off the first year of Pro via web checkout",
+  "code": "BLACKFRIDAY40",
+  "pricing": "subscription",
+  "price": {
+    "regular": 14.99,
+    "sale": 8.99,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Clearpane",
+  "url": "https://getclearpane.app/#pricing",
+  "description": "Activity Monitor in plain English: what's slowing your Mac, every process explained, and whether it's safe to quit",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "53% off for Black Friday: $9 instead of $19, one-time, 2 Macs",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19,
+    "sale": 9,
+    "currency": "USD"
+  },
+  "discount": 53,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://getclearpane.app/img/clearpane-512.png"
+}

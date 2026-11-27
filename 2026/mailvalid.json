@@ -1,0 +1,13 @@
+{
+  "name": "MailValid",
+  "url": "https://mailvalid.io/pricing",
+  "description": "Email verification with bulk and API checks, catch-all and disposable detection, free unknown results and credits that never expire",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off first 3 months of Plus or first pay-as-you-go pack, code BLACKFRIDAY50",
+  "code": "BLACKFRIDAY50",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://mailvalid.io/static/img/icon-512.png"
+}

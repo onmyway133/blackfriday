@@ -1,0 +1,15 @@
+{
+  "name": "Vernalo: Plant Anywhere",
+  "url": "https://vernalo.app/get?ref=bf26-omw",
+  "description": "Visual garden bed planner: lay out beds, place plants, check companions and planting dates",
+  "category": "lifestyle",
+  "platforms": ["web", "ios", "android", "mac", "windows"],
+  "deal": "50% off your first purchase on the web: one-time or first year of Yearly",
+  "code": "BLACKFRIDAY50",
+  "pricing": "one-time",
+  "price": { "regular": 49.99, "sale": 24.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://vernalo.app/icons/Icon-512.png"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Unclutter",
+  "url": "https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git2#UNCLUTTER",
+  "description": "Your Mac’s new favorite shelf. Notes, files, and clipboard history — one gesture away",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off",
+  "price": {
+    "regular": 30,
+    "sale": 15,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-10",
+  "icon": "https://unclutterapp.com/images/bundle/ouym2026/app-icons/256/unclutter.png"
+}

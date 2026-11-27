@@ -1,0 +1,15 @@
+{
+  "name": "ChattyFit",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60",
+  "description": "AI personal trainer for iPhone. Tell it what equipment you have, even none, and it sets up the workout; ask in chat to swap a move. Free: 3 workouts a month",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "60% off first year of Annual ($99.99 → $39.99)",
+  "code": "BLACKFRIDAY60",
+  "pricing": "subscription",
+  "price": { "regular": 99.99, "sale": 39.99, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://chatty.fit/assets/logo.png"
+}

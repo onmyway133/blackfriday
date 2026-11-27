@@ -1,0 +1,15 @@
+{
+  "name": "TaskVille",
+  "url": "https://taskville.co/?utm_source=indiegoodies&utm_medium=deals&utm_campaign=bf2026",
+  "description": "A virtual office where you hire AI agents that hand work off to each other: posts, images, reels, 3D motion, leads and research",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "55% off your first month on any monthly plan, plus a 7-day free trial",
+  "code": "BLACK199",
+  "pricing": "subscription",
+  "price": { "regular": 24, "sale": 10.64, "currency": "USD" },
+  "discount": 55,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://taskville.co/assets/logo.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ScopeForge Studio",
+  "url": "https://tolga571.github.io/black-friday-2026.html",
+  "description": "Offline freelance software quote estimator, WBS risk calculator, and SOW PDF/Excel generator",
+  "category": "business",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% off unlimited ($2.40 SCOPE40), or 60% off first 10 buyers ($1.60 FIRST10)",
+  "code": "SCOPE40",
+  "pricing": "one-time",
+  "price": {
+    "regular": 4,
+    "sale": 2.4,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01"
+}

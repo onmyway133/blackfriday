@@ -1,0 +1,14 @@
+{
+  "name": "Foca",
+  "url": "https://foca.work/",
+  "description": "A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks",
+  "category": "productivity",
+  "platforms": ["mac", "ios"],
+  "deal": "Lifetime $14.99 → $7.99, no code needed (US App Store)",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 7.99, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://foca.work/images/icon-foca.png"
+}

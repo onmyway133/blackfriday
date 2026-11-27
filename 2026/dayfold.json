@@ -1,0 +1,14 @@
+{
+  "name": "Dayfold",
+  "url": "https://foca.work/dayfold.html",
+  "description": "Countdown and anniversary widgets for iPhone Home Screen and Lock Screen",
+  "category": "productivity",
+  "platforms": ["ios"],
+  "deal": "Lifetime $14.99 → $7.99, no code needed (US App Store)",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 7.99, "currency": "USD" },
+  "discount": 47,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://foca.work/images/icon-dayfold.png"
+}

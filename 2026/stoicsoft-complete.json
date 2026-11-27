@@ -1,0 +1,15 @@
+{
+  "name": "StoicSoft Complete",
+  "url": "https://stoicsoft.com/pricing",
+  "description": "All 12 StoicSoft desktop apps on one licence key, one-time purchase with twelve months of updates",
+  "category": "productivity",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "30% off any bundle, including Complete, with code BFDEALSBUNDLE30",
+  "code": "BFDEALSBUNDLE30",
+  "pricing": "one-time",
+  "price": { "regular": 199, "sale": 139.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-19",
+  "endDate": "2026-11-29",
+  "icon": "https://stoicsoft.com/icon.svg"
+}

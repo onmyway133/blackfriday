@@ -1,0 +1,15 @@
+{
+  "name": "StoicSoft",
+  "url": "https://stoicsoft.com/products",
+  "description": "12 local-first desktop apps for one-person businesses: coding-agent workbench, design, video, dictation, local AI, file and system tools",
+  "category": "productivity",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "50% off any single app's one-time Pro licence with code BFDEALS50",
+  "code": "BFDEALS50",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 14.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-19",
+  "endDate": "2026-11-29",
+  "icon": "https://stoicsoft.com/icon.svg"
+}

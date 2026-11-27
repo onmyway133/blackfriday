@@ -1,0 +1,20 @@
+{
+  "name": "QuietCraft UI Pro",
+  "url": "https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50",
+  "description": "Clean React 19 and Tailwind CSS v4 component kit with 24 components and Playwright QA suite",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% off one-time license with code FIRST50 ($5.00 to $3.00 USD)",
+  "code": "FIRST50",
+  "pricing": "one-time",
+  "price": {
+    "regular": 5,
+    "sale": 3,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01"
+}

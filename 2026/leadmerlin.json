@@ -1,0 +1,15 @@
+{
+  "name": "LeadMerlin",
+  "url": "https://leadmerlin.com/black-friday/?utm_source=onmyway133-blackfriday&utm_medium=referral&utm_campaign=bf2026",
+  "description": "Local business leads from Google Maps with owner names, checked emails and phone line types, via dashboard, REST API, agent skill and MCP",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "60% off the first payment: first month on monthly, the whole first year on yearly",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 39, "sale": 15.6, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-02",
+  "icon": "https://leadmerlin.com/favicon.svg"
+}

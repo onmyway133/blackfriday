@@ -1,0 +1,13 @@
+{
+  "name": "PageCub",
+  "url": "https://pagecub.com/pricing",
+  "description": "Personalized illustrated children's storybook written around your child, delivered as a 49-page PDF by email in about an hour",
+  "category": "lifestyle",
+  "platforms": ["web"],
+  "deal": "25% off the digital storybook, applied automatically at checkout, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 19.99, "sale": 14.99, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-25"
+}

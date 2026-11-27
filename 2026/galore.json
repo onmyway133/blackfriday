@@ -1,0 +1,12 @@
+{
+  "name": "Galore",
+  "url": "https://trygalore.com",
+  "description": "Social investing app: turn a belief or any post into stock ideas, test ideas on past prices, follow creators' public trades. Paper trading today",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "Free access now, plus 20% off membership when it opens with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "subscription",
+  "discount": 20,
+  "icon": "https://trygalore.com/icon-192.png"
+}

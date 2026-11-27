@@ -1,0 +1,13 @@
+{
+  "name": "StitchPDF",
+  "url": "https://apps.apple.com/us/app/id6748023964",
+  "description": "Merge photos, scans and PDFs into one PDF on your iPhone, processed on device with no account or upload",
+  "category": "productivity",
+  "platforms": ["ios"],
+  "deal": "80% off the first year of Yearly, applied automatically in the app",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 10, "currency": "USD" },
+  "discount": 80,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01"
+}

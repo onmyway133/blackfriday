@@ -1,0 +1,14 @@
+{
+  "name": "push&",
+  "url": "https://pushand.com/pricing?utm_source=indiegoodies&utm_medium=listing&utm_campaign=bw2026",
+  "description": "Mac menu bar app that tracks unpushed commits across repositories and worktrees, with safe one-click push and pull, Cleanup and GitLab pipelines",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "30% off Pro and Unlimited, applied automatically at checkout",
+  "pricing": "one-time",
+  "price": { "regular": 99, "sale": 69.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-22",
+  "icon": "https://pushand.com/apple-touch-icon.png"
+}

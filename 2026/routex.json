@@ -1,0 +1,14 @@
+{
+  "name": "RouteX",
+  "url": "https://apps.apple.com/app/id6753095851",
+  "description": "Chasing light, GPS route recording and memories assistant for outdoor and photography enthusiasts",
+  "category": "utilities",
+  "platforms": ["ios", "ipad"],
+  "deal": "33% off lifetime or free claim",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/0e/58/cc0e58ca-233b-dbae-c6d3-66ce9173458b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

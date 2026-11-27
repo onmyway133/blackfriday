@@ -1,0 +1,23 @@
+{
+  "name": "Teleprompter AI",
+  "url": "https://teleprompter.so/promos/BLACKFRIDAY26",
+  "description": "Teleprompter that scrolls your script while you record with the camera, follows your voice and adds captions",
+  "category": "media",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac"
+  ],
+  "deal": "35% off the first year of yearly Pro with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "subscription",
+  "price": {
+    "regular": 59.99,
+    "sale": 38.99,
+    "currency": "USD"
+  },
+  "discount": 35,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/70/6e/99706e02-68e8-9a0b-b718-2fa1feb1635d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+}

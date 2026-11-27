@@ -1,0 +1,15 @@
+{
+  "name": "KopiaLens",
+  "url": "https://kopialens.com/pricing?utm_source=indiegoodies&utm_campaign=bf2026",
+  "description": "See inside your backups: a free, open-source app on Kopia that shows what's really taking space across snapshots and clears junk out of old ones",
+  "category": "utilities",
+  "platforms": ["windows", "mac", "linux"],
+  "deal": "30% off Pro: $35 lifetime, or $14 for the first year",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "lifetime",
+  "price": { "regular": 50, "sale": 35, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2027-01-01",
+  "icon": "https://kopialens.com/apple-touch-icon.png"
+}

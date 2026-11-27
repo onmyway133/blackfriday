@@ -1,0 +1,15 @@
+{
+  "name": "RepSquad",
+  "url": "https://www.escapethematrix.app/products/ai-rep-counter/",
+  "description": "On-device AI rep counter and fitness battles using your iPhone camera with real-time form feedback",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "20% off lifetime with code REP60",
+  "code": "REP60",
+  "pricing": "lifetime",
+  "price": { "regular": 49.99, "sale": 39.99, "currency": "USD" },
+  "discount": 20,
+  "startDate": "2026-11-27",
+  "endDate": "2027-04-29",
+  "icon": "https://www.escapethematrix.app/products/ai-rep-counter/app-icon.png"
+}

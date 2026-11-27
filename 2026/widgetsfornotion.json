@@ -1,0 +1,21 @@
+{
+  "name": "WidgetsForNotion",
+  "url": "https://widgetsfornotion.com/premium?ref=indiegoodies-bf",
+  "description": "Widgets you embed in Notion: Live Calendar for Google or Outlook, Clock & Time Zones for up to 6 cities, and a photo Vision Board",
+  "category": "productivity",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off Lifetime with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 19,
+    "sale": 9.5,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30",
+  "icon": "https://widgetsfornotion.com/apple-touch-icon.png"
+}

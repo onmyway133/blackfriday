@@ -1,0 +1,14 @@
+{
+  "name": "Rindraw",
+  "url": "https://apps.apple.com/app/id6818370032?pt=129529936&ct=github-indiegoodies&mt=8",
+  "description": "Drawing, painting and frame-by-frame animation for Mac, iPad and iPhone; opens .procreate and .psd files with layers",
+  "category": "design",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "50% off, one purchase for Mac, iPad and iPhone",
+  "pricing": "one-time",
+  "price": { "regular": 12.99, "sale": 6.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ed/30/0bed30d8-6398-7752-2eb0-1d40c5085280/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

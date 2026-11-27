@@ -8,5 +8,7 @@
   "code": "BLACKFRIDAY",
   "pricing": "subscription",
   "discount": 20,
+  "startDate": "2026-11-28",
+  "endDate": "2026-12-01",
   "icon": "https://trygalore.com/icon-192.png"
 }

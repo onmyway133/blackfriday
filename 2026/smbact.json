@@ -1,0 +1,15 @@
+{
+  "name": "SMBAct",
+  "url": "https://smblob.com/products/smbact/?promo=BF2026&utm_source=indiegoodies",
+  "description": "Window manager and app switcher for Windows, macOS and Linux: keyboard layouts, drag-to-edge snapping, moving windows between monitors",
+  "category": "productivity",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "30% off every one-time license with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 10.49, "currency": "EUR" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-31",
+  "icon": "https://smblob.com/smbact/logo_256x256.png"
+}

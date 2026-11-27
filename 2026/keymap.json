@@ -7,7 +7,7 @@
   "deal": "50% off with code BF2026",
   "code": "BF2026",
   "pricing": "one-time",
-  "price": { "regular": 6.99, "sale": 3.49, "currency": "USD" },
+  "price": { "regular": 6.99, "sale": 3.5, "currency": "USD" },
   "discount": 50,
   "startDate": "2026-11-26",
   "endDate": "2026-12-01"

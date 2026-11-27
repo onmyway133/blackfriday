@@ -1,0 +1,13 @@
+{
+  "name": "Startup Buffer",
+  "url": "https://startupbuffer.com/promote",
+  "description": "Startup directory with 33,000+ listings, where homepage features put your product in front of people browsing new startups",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off homepage features: 2 weeks $49 → $24.50, 3 months $299 → $149.50",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 24.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-04"
+}

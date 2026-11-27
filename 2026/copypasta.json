@@ -1,6 +1,6 @@
 {
   "name": "CopyPasta",
-  "url": "https://usecopypasta.com/#pricing",
+  "url": "https://usecopypasta.com",
   "description": "Clipboard manager that lives in the Mac notch, with Paste Stack, on-device OCR and a screenshot beautifier",
   "category": "productivity",
   "platforms": ["mac"],

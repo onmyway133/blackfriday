@@ -1,0 +1,19 @@
+{
+  "name": "Domenu: Recipe Saver & Planner",
+  "url": "https://domenu.kalifi.ai/recipe-app-no-subscription/?r=gh-ig-bf",
+  "description": "Offline-first recipe keeper, weekly meal planner, and aisle-sorted grocery list for iPhone, iPad, and Apple Watch. No account; imports Paprika libraries.",
+  "category": "lifestyle",
+  "platforms": [
+    "iOS"
+  ],
+  "deal": "96% off Lifetime IAP ($24.99 \u2192 $0.99), automatic in-app discount",
+  "pricing": "one-time",
+  "price": {
+    "regular": 24.99,
+    "sale": 0.99,
+    "currency": "USD"
+  },
+  "discount": 96,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30"
+}

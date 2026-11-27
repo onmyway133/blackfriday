@@ -1,0 +1,14 @@
+{
+  "name": "Post Dose",
+  "url": "https://apps.apple.com/app/id6761559780?ct=bf-indiegoodies&pt=128736311&mt=8",
+  "description": "Meal planner for people on a GLP-1 shot like Wegovy, Zepbound or Ozempic: what to eat each day of your shot week, with a protein goal",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "75% off lifetime: $49.99, was $199.99, set on the App Store",
+  "pricing": "lifetime",
+  "price": { "regular": 199.99, "sale": 49.99, "currency": "USD" },
+  "discount": 75,
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-30",
+  "icon": "https://postdoseapp.com/img/apple-touch-icon.png"
+}

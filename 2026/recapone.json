@@ -1,0 +1,15 @@
+{
+  "name": "RecapOne",
+  "url": "https://recapone.com/blackfriday",
+  "description": "Save articles, PDFs, books, podcasts, YouTube and newsletters into one reader. Highlight what matters; get five past highlights back daily in a Daily Recap",
+  "category": "productivity",
+  "platforms": ["web"],
+  "deal": "35% off forever with BF2026, or $200 off Lifetime with BFLTD",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 9.99, "sale": 6.49, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://recapone.com/icon.png"
+}

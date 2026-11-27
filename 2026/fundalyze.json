@@ -1,0 +1,15 @@
+{
+  "name": "Fundalyze",
+  "url": "https://fundalyze.ai/blackfriday",
+  "description": "All-in-one research for US stocks: sourced financials, filings, insider and Congress trades, screener with backtests, comps, alerts, and an API and MCP server",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "35% off forever with BF2026, or $1,000 off Lifetime with BFLTD1000",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 32.49, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://fundalyze.ai/apple-icon.png"
+}

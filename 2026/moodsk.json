@@ -1,0 +1,19 @@
+{
+  "name": "Moodsk",
+  "url": "https://apps.apple.com/us/app/id6752535811",
+  "description": "Mac desktop customization with matching wallpapers, folder icons, widgets, cursor effects, file organization and a layered icon editor",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "40% off All Access Lifetime in-app purchase: $49.99 to $29.99, US App Store; no code",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 49.99,
+    "sale": 29.99,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01"
+}

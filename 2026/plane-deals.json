@@ -1,0 +1,12 @@
+{
+  "name": "PLANE.DEALS",
+  "url": "https://plane.deals/black-friday",
+  "description": "Email alerts for cheap cash flight fares from the US airports you choose, with the bag limit on every deal",
+  "category": "lifestyle",
+  "platforms": ["web"],
+  "deal": "Monthly: first month free with BFMONTHFREE. Annual: 25% off first year with BLACKFRIDAY25",
+  "pricing": "subscription",
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-30",
+  "icon": "https://plane.deals/icon-512.png"
+}

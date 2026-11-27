@@ -1,0 +1,15 @@
+{
+  "name": "RewriteBar",
+  "url": "https://rewritebar.com/black-friday?ref=indiegoodies",
+  "description": "AI writing assistant in the Mac menu bar. Fix grammar, rewrite, change tone and translate in any app, using your own API keys or local models.",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "50% off every lifetime license with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 29, "sale": 14.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-03",
+  "icon": "https://rewritebar.com/icon.png"
+}

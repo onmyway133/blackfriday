@@ -1,0 +1,15 @@
+{
+  "name": "XeOS: External Display Desktop",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT",
+  "description": "Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector",
+  "category": "productivity",
+  "platforms": ["ios", "ipad"],
+  "deal": "25% off lifetime with code XEOSREDDIT",
+  "code": "XEOSREDDIT",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 29.99, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/94/93/5b9493e1-6d60-258e-1f16-8bb80fcba345/Placeholder.mill/512x512bb.png"
+}

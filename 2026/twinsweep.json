@@ -1,0 +1,20 @@
+{
+  "name": "TwinSweep",
+  "url": "https://tidyware.app/twinsweep/",
+  "description": "Find duplicate files and photos on your Mac and undo the last clean-up in one click",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "30% off, applied automatically at checkout",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19,
+    "sale": 13.3,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "endDate": "2026-12-01",
+  "icon": "https://tidyware.app/twinsweep/icon-256.png"
+}

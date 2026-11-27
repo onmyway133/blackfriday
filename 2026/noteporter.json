@@ -1,0 +1,20 @@
+{
+  "name": "NotePorter",
+  "url": "https://tidyware.app/noteporter/",
+  "description": "Lets Claude or Cursor search and write your Apple Notes on Mac, with one-click connect. It never deletes notes",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "30% off, applied automatically at checkout",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 15,
+    "sale": 10.5,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "endDate": "2026-12-01",
+  "icon": "https://tidyware.app/noteporter/icon-256.png"
+}

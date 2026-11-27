@@ -1,0 +1,20 @@
+{
+  "name": "MakeItSay",
+  "url": "https://makeitsay.com/pricing",
+  "description": "Change the words in a screenshot or photo and keep the original font and layout.",
+  "category": "media",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off credit packs (BF2026); 40% off 1st yr Pro/Studio yearly (BF2026YEAR)",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 3,
+    "sale": 2.1,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "endDate": "2026-12-01",
+  "icon": "https://raw.githubusercontent.com/makeitsay/makeitsay-mcp/main/logo.png"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Spiik",
+  "url": "https://spiik.io/promos/BLACKFRIDAY26",
+  "description": "AI voice recorder: transcribes meetings and lectures in 100+ languages, labels speakers, makes AI notes, summaries and flashcards",
+  "category": "productivity",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac"
+  ],
+  "deal": "35% off the first year of yearly Pro with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "subscription",
+  "price": {
+    "regular": 79.99,
+    "sale": 51.99,
+    "currency": "USD"
+  },
+  "discount": 35,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/3f/d3/133fd3b4-0cce-683d-6a3a-355e4b8e92a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

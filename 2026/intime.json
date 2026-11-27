@@ -1,0 +1,20 @@
+{
+  "name": "InTime",
+  "url": "https://apps.apple.com/app/id6836084908",
+  "description": "A camera that travels across 37 eras (BC 15000–2049) on iPhone with real-time optical shaders and vintage audio DSP, 100% on-device with zero subscriptions",
+  "category": "media",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "50% off All Eras Lifetime Unlock ($7.99 -> $3.99) with code BF50",
+  "code": "BF50",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 7.99,
+    "sale": 3.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-03"
+}

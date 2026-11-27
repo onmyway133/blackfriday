@@ -1,0 +1,14 @@
+{
+  "name": "Ghost",
+  "url": "https://ghostformac.com/black-friday?ref=bf-indiegoodies",
+  "description": "Your Mac will never be the same: say one sentence and Ghost takes over your Mac to do the whole task, and writes as you",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "60% off the license: $249 → $99 once, plus an AI plan from $19/mo",
+  "pricing": "one-time",
+  "price": { "regular": 249, "sale": 99, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://ghostformac.com/icons/icon-512.png"
+}

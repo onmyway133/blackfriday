@@ -1,0 +1,15 @@
+{
+  "name": "Rakazo",
+  "url": "https://rakazo.com/black-friday",
+  "description": "Open-source platform for persistent AI agents with their own computer, memory and routines, reachable from Slack, Teams or email",
+  "category": "ai",
+  "platforms": ["web"],
+  "deal": "30% off the first year of any yearly plan",
+  "code": "BLACKFRIDAY30",
+  "pricing": "subscription",
+  "price": { "regular": 144, "sale": 100.8, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://rakazo.com/apple-touch-icon.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Igidu Pro",
+  "url": "https://igidu.app/",
+  "description": "Mouse controls, supported peripherals, DualSense Edge customization, recording and replay for Mac",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "Save $5 on Igidu Pro for Mac 1.x; discount applied automatically",
+  "code": "",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-02",
+  "icon": "https://igidu.app/assets/app-icon.png"
+}

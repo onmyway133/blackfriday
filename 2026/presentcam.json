@@ -1,0 +1,19 @@
+{
+  "name": "PresentCam",
+  "url": "https://apps.apple.com/us/app/presentcam-pdf-video-maker/id6792493471",
+  "description": "Record PDF walkthroughs with your camera and live annotations",
+  "category": "media",
+  "platforms": [
+    "ios",
+    "ipad"
+  ],
+  "deal": "US$80.00 to US$59.99 Pro Lifetime; ends Nov 28 at 23:59:59 UTC",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 80,
+    "sale": 59.99,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "endDate": "2026-11-28"
+}

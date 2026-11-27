@@ -1,0 +1,14 @@
+{
+  "name": "Tweetsmash",
+  "url": "https://www.tweetsmash.com/pricing?code=BF2026",
+  "description": "X content platform that turns bookmarks into a searchable library, newsletters and digests. The Chrome extension imports your bookmarks automatically on install",
+  "category": "marketing",
+  "platforms": ["web", "chrome"],
+  "deal": "30% off the first year with code BF2026 (Yearly $99 to $69.30, Reader $84 to $58.80)",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://www.tweetsmash.com/assets/icons/android/android-launchericon-512-512.png"
+}

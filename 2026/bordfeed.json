@@ -1,0 +1,15 @@
+{
+  "name": "Bordfeed",
+  "url": "https://bordfeed.com/black-friday",
+  "description": "Job data API for agents and builders: 500k+ live jobs from company hiring pages, refreshed nightly, via API, webhooks, email or MCP",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "50% off your first 3 months on any plan with code BFCM50",
+  "code": "BFCM50",
+  "pricing": "subscription",
+  "price": { "regular": 79, "sale": 39.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-04",
+  "icon": "https://bordfeed.com/apple-touch-icon.png"
+}

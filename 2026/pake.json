@@ -1,0 +1,22 @@
+{
+  "name": "Pake",
+  "url": "https://pake.run/",
+  "description": "Turns any website into a lightweight desktop app with its own icon and window, no developer tools to install",
+  "category": "productivity",
+  "platforms": [
+    "mac",
+    "windows",
+    "linux"
+  ],
+  "deal": "20% off, one-time $15.20 instead of $19, no code needed",
+  "pricing": "one-time",
+  "price": {
+    "regular": 19,
+    "sale": 15.2,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-15",
+  "icon": "https://pake.run/img/apple-touch-icon.png"
+}

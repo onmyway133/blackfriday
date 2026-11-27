@@ -1,0 +1,20 @@
+{
+  "name": "Voxipaw",
+  "url": "https://voxipaw.kionesis.com/",
+  "description": "Focus timer with a voxel pet (puppy, kitten, bunny, capybara, otter or crocodile) that grows up with every minute you focus",
+  "category": "productivity",
+  "platforms": [
+    "web"
+  ],
+  "deal": "51% off Lifetime Plus, no code needed",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 99.99,
+    "sale": 49,
+    "currency": "USD"
+  },
+  "discount": 51,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://voxipaw.kionesis.com/img/app-512.png"
+}

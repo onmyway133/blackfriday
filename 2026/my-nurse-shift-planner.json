@@ -1,0 +1,14 @@
+{
+  "name": "My Nurse Shift Planner",
+  "url": "https://apps.apple.com/us/app/id6764406102",
+  "description": "Shift calendar for nurses on iPhone and iPad: plan day, night and on-call shifts, track hours and estimate pay with night and weekend differentials",
+  "category": "productivity",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off Premium: $29.99 → $14.99/yr or $5.99 → $2.99/mo, no code",
+  "pricing": "subscription",
+  "price": { "regular": 29.99, "sale": 14.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2f/c8/a42fc8f2-df4a-1599-3847-9afcba2646db/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

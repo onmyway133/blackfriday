@@ -1,0 +1,13 @@
+{
+  "name": "SaaSykit",
+  "url": "https://saasykit.com",
+  "description": "Laravel SaaS starter kit with subscriptions, one-time payments, admin panel, user dashboard and auth built in",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "50% off all plans with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 239, "sale": 119.5, "currency": "USD" },
+  "discount": 50,
+  "endDate": "2026-12-06"
+}

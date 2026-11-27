@@ -1,0 +1,15 @@
+{
+  "name": "KasusKnacker",
+  "url": "https://kasusknacker.com",
+  "description": "Practise German grammar: cases, der/die/das, verb conjugation and a writing check, in short daily exercises",
+  "category": "education",
+  "platforms": ["ios", "ipad", "android", "web"],
+  "deal": "50% off the first year of Premium (yearly plan)",
+  "code": "BLACKFRIDAY50",
+  "pricing": "subscription",
+  "price": { "regular": 34.99, "sale": 17.49, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-30",
+  "icon": "https://app.kasusknacker.com/pwa-512x512.png"
+}

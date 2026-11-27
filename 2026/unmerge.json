@@ -1,0 +1,20 @@
+{
+  "name": "Unmerge",
+  "url": "https://unmerge.app/pricing",
+  "description": "Split a flat image into named transparent layers and export a layered PSD.",
+  "category": "design",
+  "platforms": [
+    "web"
+  ],
+  "deal": "+70 credits on $10 Basic pack (200 total); 40% off 1st yr Pro/Ultra yearly (BF2026YEAR)",
+  "code": "BF2026YEAR",
+  "pricing": "subscription",
+  "price": {
+    "regular": 210,
+    "sale": 126,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "endDate": "2026-12-01",
+  "icon": "https://raw.githubusercontent.com/unmerge-app/unmerge-mcp/main/logo.png"
+}

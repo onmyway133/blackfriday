@@ -1,0 +1,14 @@
+{
+  "name": "AI Teleprompter",
+  "url": "https://aiteleprompterapp.com",
+  "description": "Voice-follow teleprompter for iPhone and iPad: the script scrolls with your voice, plus floating mode and one-tap recording",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off Annual first year & Lifetime, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 39.99, "sale": 19.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2027-01-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/74/18/84741823-890b-7fe7-b2f6-6bb5bb178fa8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

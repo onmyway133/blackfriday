@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Daily Checklist · To Do List",
+    "url": "https://apps.apple.com/app/id6743703945",
+    "description": "Track routines, chores and tasks",
+    "category": "productivity",
+    "platforms": ["ios", "ipad"],
+    "deal": "50% off lifetime, no code needed",
+    "pricing": "lifetime",
+    "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+    "discount": 50,
+    "startDate": "2026-11-26",
+    "endDate": "2026-12-03"
+  },
+  {
+    "name": "Bookmark Links: PostPocket",
+    "url": "https://apps.apple.com/app/id6670723615",
+    "description": "Save links and content to read later",
+    "category": "productivity",
+    "platforms": ["ios", "ipad"],
+    "deal": "50% off lifetime, no code needed",
+    "pricing": "lifetime",
+    "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+    "discount": 50,
+    "startDate": "2026-11-26",
+    "endDate": "2026-12-03"
+  }
+]

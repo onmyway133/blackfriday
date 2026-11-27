@@ -5,7 +5,6 @@
   "category": "utilities",
   "platforms": ["mac"],
   "deal": "Save $5 on Igidu Pro for Mac 1.x; discount applied automatically",
-  "code": "",
   "pricing": "one-time",
   "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
   "discount": 33,

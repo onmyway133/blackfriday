@@ -1,0 +1,13 @@
+{
+  "name": "iKnow Suite (iKnowMyMac + iKnowMyDisplay)",
+  "url": "https://iknowmymac.com/?utm_source=indiegoodies#pricing",
+  "description": "Two native menu bar apps for Apple silicon: Mac activity with history, and every display control macOS hides",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "Both apps for $5.99 instead of $7.99, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 7.99, "sale": 5.99, "currency": "USD" },
+  "discount": 25,
+  "endDate": "2026-12-01",
+  "icon": "https://iknowmymac.com/icon.png"
+}

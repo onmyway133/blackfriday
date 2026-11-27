@@ -1,0 +1,15 @@
+{
+  "name": "ClipCreator.ai",
+  "url": "https://clipcreator.ai/black-friday?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=black-friday-2026",
+  "description": "Create faceless AI videos in minutes and auto-post them to TikTok, YouTube Shorts and Instagram. No editing skills needed - set and forget",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "40% off your first month",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 19, "sale": 11.4, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-02",
+  "icon": "https://clipcreator.ai/icon.png"
+}

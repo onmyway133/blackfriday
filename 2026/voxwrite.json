@@ -1,0 +1,15 @@
+{
+  "name": "VoxWrite",
+  "url": "https://voxwrite.app/?utm_source=indiegoodies#pricing",
+  "description": "Voice-to-text browser extension: speak in any text field and get a finished email, message, post or note, styled per website",
+  "category": "ai",
+  "platforms": ["chrome", "mac", "windows", "linux"],
+  "deal": "30% off lifetime with code BF2026, or 4 months of SaaS with BF2026SAAS",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 27.99, "currency": "EUR" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-31",
+  "icon": "https://voxwrite.app/favicon-256x256.png"
+}

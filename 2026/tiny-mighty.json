@@ -1,0 +1,14 @@
+{
+  "name": "Tiny Mighty",
+  "url": "https://apps.apple.com/app/id6806660433?pt=229293&ct=bf-indiegoodies",
+  "description": "Makes a smaller copy of each big video in your iPhone photo library, so you can delete the original and stay on your iCloud plan",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off the lifetime unlock ($9.99 → $4.99), no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-30",
+  "icon": "https://tinymighty.app/press/tiny-mighty-icon-1024.png"
+}

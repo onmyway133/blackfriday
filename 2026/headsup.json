@@ -1,0 +1,13 @@
+{
+  "name": "HeadsUp",
+  "url": "https://headsup.bot/black-friday?ref=indiegoodies",
+  "description": "AI agent that tells you the day a competitor changes its pricing, features or messaging",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Lifetime Pro for $349 once, normally $39 a month",
+  "pricing": "lifetime",
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30"
+}

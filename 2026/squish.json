@@ -4,7 +4,7 @@
   "description": "Shrinks PDFs, scans and photos on iPhone and iPad to the exact size an upload form asks for and keeps them readable, all on the device",
   "category": "utilities",
   "platforms": ["ios", "ipad"],
-  "deal": "40% off the Squish Pro one-time unlock ($4.99 → $2.99), no code needed",
+  "deal": "40% off the Squish Pro one-time unlock (US $4.99 → $2.99, local prices vary), no code",
   "pricing": "one-time",
   "price": { "regular": 4.99, "sale": 2.99, "currency": "USD" },
   "discount": 40,

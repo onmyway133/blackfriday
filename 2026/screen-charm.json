@@ -1,0 +1,14 @@
+{
+  "name": "Screen Charm",
+  "url": "https://screencharm.com",
+  "description": "Mac screen recorder with auto-zoom on clicks, a smooth cursor, auto captions, vertical exports and 4K export",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "39% off the $79 lifetime deal (~$49; regular $149)",
+  "pricing": "lifetime",
+  "price": { "regular": 79, "sale": 49, "currency": "USD" },
+  "discount": 39,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://screencharm.com/icons/logo.png"
+}

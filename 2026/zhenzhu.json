@@ -1,0 +1,15 @@
+{
+  "name": "Zhenzhu",
+  "url": "https://zhenzhu.app/#pricing",
+  "description": "Offline Chinese and Japanese pop-up dictionary, Apple Vision screen OCR, and one-click Anki sentence mining for macOS",
+  "category": "education",
+  "platforms": ["mac"],
+  "deal": "69% off Pro lifetime ($29 to $9) with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 29, "sale": 9, "currency": "USD" },
+  "discount": 69,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01",
+  "icon": "https://zhenzhu.app/app-icon.png"
+}

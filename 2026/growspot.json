@@ -1,0 +1,12 @@
+{
+  "name": "GrowSpot: Plant Care & Light",
+  "url": "https://growspotapp.com/lifetime/?from=lifetime-indiegoodies",
+  "description": "Plant care app that tells you whether a plant can thrive in the exact spot you have in mind, before you buy or move it",
+  "category": "lifestyle",
+  "platforms": ["ios", "android"],
+  "deal": "Lifetime Plus free with a code until Dec 21, while codes last",
+  "pricing": "lifetime",
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-21",
+  "icon": "https://growspotapp.com/assets/apple-touch-icon.png"
+}

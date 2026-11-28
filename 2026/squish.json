@@ -1,0 +1,14 @@
+{
+  "name": "Squish",
+  "url": "https://apps.apple.com/app/apple-store/id6826825259?pt=129674688&ct=bf-indiegoodies&mt=8",
+  "description": "Shrinks PDFs, scans and photos on iPhone and iPad to the exact size an upload form asks for and keeps them readable, all on the device",
+  "category": "utilities",
+  "platforms": ["ios", "ipad"],
+  "deal": "40% off the Squish Pro one-time unlock (US $4.99 → $2.99, local prices vary), no code",
+  "pricing": "one-time",
+  "price": { "regular": 4.99, "sale": 2.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-03",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/81/cf/4381cffb-3e66-d461-888a-50dc409b55f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

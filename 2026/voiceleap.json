@@ -1,0 +1,21 @@
+{
+  "name": "VoiceLeap",
+  "url": "https://voiceleap.ai",
+  "description": "Mac app for near real-time voice-to-voice translation of calls, videos and shows, with live subtitles if you want them",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "25% off annual and lifetime with code HOLIDAY_26",
+  "code": "HOLIDAY_26",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 49,
+    "sale": 36.75,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2026-11-28",
+  "endDate": "2027-01-03",
+  "icon": "https://voiceleap.ai/logo.png"
+}

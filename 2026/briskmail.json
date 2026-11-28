@@ -1,0 +1,12 @@
+{
+  "name": "Briskmail",
+  "url": "https://buy.polar.sh/polar_cl_UZLvTNmeg95ox3qb7qC0n9n6YIDblNsgcX4mO0nTSzW",
+  "description": "A native Mac app just for Gmail and Google Workspace, built on the Gmail API instead of IMAP",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "$29 one-time (regular $59), code applied by the link",
+  "pricing": "one-time",
+  "price": { "regular": 59, "sale": 29, "currency": "USD" },
+  "discount": 51,
+  "icon": "https://briskmail.app/apple-touch-icon.png"
+}
